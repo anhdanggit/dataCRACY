@@ -11,18 +11,16 @@
 
 ## ATOM
 
----
+* [1 - Python Programming](atom/1-python-programming.md)
+* [2 - Automate with Python](atom/2-automate-with-python.md)
+* [3 - Cloud Tools](atom/3-cloud-tools.md)
+* [4 - SQL & Database](atom/4-sql-and-database.md)
+* [5 - Data Storytelling & Viz](atom/5-data-storytelling-and-viz.md)
+* [6 - Mathematical Thinking](atom/6-mathematical-thinking.md)
+* [7 - Management Science & Practical ML](atom/7-management-science-and-practical-ml.md)
+* [8 - Agile Management & Capstone Project](atom/8-agile-management-and-capstone-project.md)
 
-* [1 - Python Programming](1-python-programming.md)
-* [2 - Automate with Python](2-automate-with-python.md)
-* [3 - Cloud Tools](3-cloud-tools.md)
-* [4 - SQL & Database](4-sql-and-database.md)
-* [5 - Data Storytelling & Viz](5-data-storytelling-and-viz.md)
-* [6 - Mathematical Thinking](6-mathematical-thinking.md)
-* [7 - Management Science & Practical ML](7-management-science-and-practical-ml.md)
-* [8 - Agile Management & Capstone Project](8-agile-management-and-capstone-project.md)
+## Data Inspirations <a id="data-inspires"></a>
 
-## Data Blogs
-
-* [Science of Counting](data-blogs/science-of-counting.md)
+* [Science of Counting](data-inspires/science-of-counting.md)
 
