@@ -8,38 +8,49 @@
   * Chiều Dọc \(n\): Số dòng \(hay số quan sát, số ví dụ, số users\)
   * Chiều Ngang \(p\): Số tính chất \(features\) được ghi nhận 
 
-![](../../.gitbook/assets/image%20%2811%29.png)
+![](../../.gitbook/assets/image%20%2812%29.png)
 
 * **Big "n" and big "p":** Siêu máy tính \(GPU, TPU\) cho phép chúng ta xử lý một lượng dữ liệu lớn
 * Manipulate "p": **Feature Engineering** 
   * Giảm p - "Less is more": Trong rất nhiều dữ liệu, làm sao ta biết dữ liệu nào quan trọng =&gt; **Feature Selection** 
   * Tăng p - Tạo ra thêm features từ các features 
 
-![](../../.gitbook/assets/image%20%289%29.png)
+![](../../.gitbook/assets/image%20%2810%29.png)
 
 * Manipulate "n": **Sampling Tech**
   * Giảm n - **Undersampling:** Trích xuất một mẫu nhỏ của data gốc, làm sao để đảm bảo mẫu nhỏ thể hiện đầy đủ các tính chất của mẫu 
   * Tăng n - **Synthetic sampling**: Tạo ra các điểm data "synthetic" từ các data gốc
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](../../.gitbook/assets/image%20%2811%29.png)
 
 ## Thuật Toán
 
+* **Machine Learning:** dạy "máy móc" như dạy một đứa =&gt; Học bằng ví dụ \(dữ liệu\)
 * Dùng data trong quá khứ \(`X`\) để tạo ra một thuật toán hay phương trình: `f( )` nhằm tự động trả kết quả `(y_pred)` cho một dữ liệu đầu vào mới `(X')`
 * Như thế nào?
-  * Data quá khứ: `X` \(, quan sát được\) map với `y` \(nhãn, quan sát được\) =&gt; Rút ra quy luật:   
+  * **Data quá khứ:** `X` \(, quan sát được\) map với `y` \(nhãn, quan sát được\) =&gt; Rút ra quy luật: `f( )`
+  * f\( \) có tính tổng quát: Đúng với cả data mới: `X'`, `y'` \(không có quan sát\)
+  * **Predict:** `y_pred = f(X')`   
 
 ## Một số thuật toán thông 
 
 ### Finding Patterns
 
 * Thuật toán: Clustering \(Unsupervisor \)
+* Phân tách một nhóm quán sát lớn và rất khác  thành các nhóm nhỏ đồng đều hơn về tính 
+* Như thế nào: 
+  * Khoảng cách giữa hai điểm data \(chiều cao x cân nặng\)
+* Ứng dụng:
+  * Phân loại nhạc \(Thuật toán gợi ý\)
+  * Phân loại users \(Ads Targeting\)
 
-![](../../.gitbook/assets/image%20%2812%29.png)
+![](../../.gitbook/assets/image%20%2813%29.png)
 
 ### Phân loại \(Classification\)
 
-### Dự đoán \(Prediction\)
+* **Decision Tree:** Thuật toán phân loại đơn giản nhất, chuỗi các câu hỏi YES/
+
+![](../../.gitbook/assets/image%20%289%29.png)
 
 ### Các thuật toán 
 

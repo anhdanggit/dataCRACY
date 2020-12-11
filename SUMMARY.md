@@ -5,8 +5,8 @@
 ## Big-O
 
 * [1 - What Data Can Do?](big-o/1-what-data-can-do/README.md)
-  * [Activities: Your Spotify Data](big-o/1-what-data-can-do/d-aty-your-spotify-data.md)
   * [Big Data & Thuật Toán](big-o/1-what-data-can-do/big-data-and-thuat-toan.md)
+  * [Activities: Your Spotify Data](big-o/1-what-data-can-do/d-aty-your-spotify-data.md)
   * [Discussion: Algorithms & Data Privacy](big-o/1-what-data-can-do/discussion-algorithms-and-data-privacy.md)
 * [2 - Everyone Can Read Data](big-o/2-everyone-can-read-data/README.md)
   * [Activities: Data all-around You](big-o/2-everyone-can-read-data/activities-data-all-around-you.md)
