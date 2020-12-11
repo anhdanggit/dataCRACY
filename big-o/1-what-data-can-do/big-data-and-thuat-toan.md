@@ -7,15 +7,21 @@
 * Data có 2 chiều để "Big"
   * Chiều Dọc \(n\): Số dòng \(hay số quan sát, số ví dụ, số users\)
   * Chiều Ngang \(p\): Số tính chất \(features\) được ghi nhận 
-* Big "n" and big "p": 
+* **Big "n" and big "p":** 
   * Siêu máy tính \(GPU, TPU\) cho phép chúng ta xử lý một lượng dữ liệu lớn
-  * "Less is more": Trong rất nhiều dữ liệu, làm sao ta biết dữ liệu nào quan trọng =&gt; Feature Selection 
-  * Manipulate "p": Feature Engineering 
-  * Manipulate "n": Sampling 
-
-### Finding Patterns
+  * "Less is more": Trong rất nhiều dữ liệu, làm sao ta biết dữ liệu nào quan trọng =&gt; **Feature Selection** 
+  * Manipulate "p": **Feature Engineering** 
+  * Manipulate "n": **Sampling Te**
 
 ### Một số thuật toán
+
+#### Finding Patterns
+
+#### Phân loại \(Classification\)
+
+#### Dự đoán \(Prediction\)
+
+#### Các thuật toán 
 
 ### Thách thức của Thuật T
 
