@@ -1,6 +1,6 @@
 # DataViz & Storytelling
 
-## Warm-
+## Warm 
 
 {% tabs %}
 {% tab title="First Tab" %}
