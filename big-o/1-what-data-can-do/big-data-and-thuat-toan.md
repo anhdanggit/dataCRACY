@@ -45,13 +45,13 @@
   * Phân loại nhạc \(Thuật toán gợi ý\)
   * Phân loại users \(Ads Targeting\)
 
-![](../../.gitbook/assets/image%20%2813%29.png)
+![](../../.gitbook/assets/image%20%2814%29.png)
 
 ### Phân loại \(Classification\)
 
 * **Decision Tree:** Thuật toán phân loại đơn giản nhất, chuỗi các câu hỏi YES/NO 
 
-![](../../.gitbook/assets/image%20%289%29.png)
+![](../../.gitbook/assets/image%20%2813%29.png)
 
 ## Các concepts 
 
