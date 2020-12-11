@@ -27,7 +27,7 @@
 
 * Dùng data trong quá khứ \(`X`\) để tạo ra một thuật toán hay phương trình: `f( )` nhằm tự động trả kết quả `(y_pred)` cho một dữ liệu đầu vào mới `(X')`
 * Như thế nào?
-  * Data quá khứ: `X` \(, quan sát được\) map với `y` \(nhãn, quan sát được\) =&gt; Rút ra quy luật: 
+  * Data quá khứ: `X` \(, quan sát được\) map với `y` \(nhãn, quan sát được\) =&gt; Rút ra quy luật:  
 
 ## Một số thuật toán thông 
 
