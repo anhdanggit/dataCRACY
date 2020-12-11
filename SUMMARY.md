@@ -5,10 +5,14 @@
 ## Big-O
 
 * [1 - What Data Can Do?](big-o/1-what-data-can-do/README.md)
-  * [DATY: Your Spotify Data](big-o/1-what-data-can-do/d-aty-your-spotify-data.md)
-* [2 - Everyone Can Read Data](big-o/2-everyone-can-read-data.md)
-* [3 - Everyone Can Data Analytics](big-o/3-everyone-can-data-analytics.md)
-* [4 - Data Career Paths](big-o/4-data-career-paths.md)
+  * [Activities: Your Spotify Data](big-o/1-what-data-can-do/d-aty-your-spotify-data.md)
+  * [Discussion: Algorithms & Data Privacy](big-o/1-what-data-can-do/discussion-algorithms-and-data-privacy.md)
+* [2 - Everyone Can Read Data](big-o/2-everyone-can-read-data/README.md)
+  * [Activities: Data all-around You](big-o/2-everyone-can-read-data/activities-data-all-around-you.md)
+* [3 - Everyone Can Data Analytics](big-o/3-everyone-can-data-analytics/README.md)
+  * [Activities: COVID by Data](big-o/3-everyone-can-data-analytics/activities-covid-by-data.md)
+* [4 - Data Sceptic](big-o/4-data-sceptic.md)
+* [Reference](big-o/reference.md)
 
 ## ATOM
 

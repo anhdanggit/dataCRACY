@@ -2,7 +2,7 @@
 description: 'DataYourself Activities for the Session 1: What Data Can Do?'
 ---
 
-# DATY: Your Spotify Data
+# Activities: Your Spotify Data
 
 ### Spotify Data
 
