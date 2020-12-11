@@ -4,7 +4,8 @@
 
 ## Big-O
 
-* [1 - What Data Can Do?](big-o/1-what-data-can-do.md)
+* [1 - What Data Can Do?](big-o/1-what-data-can-do/README.md)
+  * [DATY: Your Spotify Data](big-o/1-what-data-can-do/d-aty-your-spotify-data.md)
 * [2 - Everyone Can Read Data](big-o/2-everyone-can-read-data.md)
 * [3 - Everyone Can Data Analytics](big-o/3-everyone-can-data-analytics.md)
 * [4 - Data Career Paths](big-o/4-data-career-paths.md)
