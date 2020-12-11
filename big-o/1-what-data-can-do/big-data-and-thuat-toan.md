@@ -6,5 +6,5 @@
 
 ### Một số thuật toán
 
-### Thách thức của Thuật 
+### Thách thức của Thuật T
 
