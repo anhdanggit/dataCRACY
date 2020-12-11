@@ -26,11 +26,25 @@ Trong session này, hãy cùng xem Spotify có những data của bạn và tư�
 
 ### Organize Your Music
 
+{% tabs %}
+{% tab title="Step-by-Step" %}
+Truy cập vào [http://organizeyourmusic.playlistmachinery.com/](http://organizeyourmusic.playlistmachinery.com/#)
+
+* [ ] Login qua portal của Spotify
+* [ ] `The Track List` Có các thông tin gì đi kèm một bài hát?
+* [ ] `The Plot` tự tìm tòi Spotify data của chính bạn qua interactive 
+{% endtab %}
+
+{% tab title="Data Concepts" %}
+
+{% endtab %}
+{% endtabs %}
+
 ### Gout Nhạc của bạn “Dị” đến đâu?
 
 {% tabs %}
 {% tab title="Step-by-Step" %}
-#### Data 
+Truy cập vào [Obscurify Music](https://obscurifymusic.com/home)
 
 * [ ] Truy cập vào [Obscurify Music](https://obscurifymusic.com/home)
 * [ ] Login qua portal của Spotify
@@ -38,7 +52,7 @@ Trong session này, hãy cùng xem Spotify có những data của bạn và tư�
 * [ ] Check tab `About` của [www.obscurifymusic.](www.obscurifymusic.com)
 {% endtab %}
 
-{% tab title="Đọc Hiểu Data" %}
+{% tab title="Data Concepts" %}
 #### Chúng ta sẽ hiểu con số `80%` như thế nào?
 
 ![Gout nh&#x1EA1;c c&#x1EE7;a b&#x1EA1;n &quot;D&#x1ECB;&quot; h&#x1A1;n 80% Vietnamese Users on Obscrify](../../.gitbook/assets/image%20%283%29.png)
