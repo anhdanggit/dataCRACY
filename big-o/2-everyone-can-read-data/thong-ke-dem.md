@@ -11,5 +11,8 @@ Truy cập: [https://databasic.io/en/wtfcsv](https://databasic.io/en/wtfcsv)
 {% endtab %}
 {% endtabs %}
 
-
-
+* Biến Categorical, biến Continuous
+* Biến Categorical và %
+* Đồ thị phân phối \(Cụ thể hơn trong phần: [Science of Counting](../../data-inspires/science-of-counting.md)\)
+* Đồ thị phân phối cộng dồn: Biểu diễn rõ ràng hơn concept "Taste nghe nhạc của bạn kỳ lạ hơn 80% người Việt Nam\)
+* 

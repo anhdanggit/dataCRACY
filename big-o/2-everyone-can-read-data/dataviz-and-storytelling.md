@@ -28,3 +28,7 @@ Explore DataViz in the Internet
   * Biến độc lập/giải thích \(Independent variable\) thường nẳm trên trục 
   * Biến phụ thuộc/mục tiêu thường nằm trên trục 
 
+{% hint style="info" %}
+Activities: [https://tladeras.shinyapps.io/dataLiteracyTutorial/\#section-relationships-1-variable-versus-time](https://tladeras.shinyapps.io/dataLiteracyTutorial/#section-relationships-1-variable-versus-time)
+{% endhint %}
+
