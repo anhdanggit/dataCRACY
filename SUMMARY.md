@@ -5,11 +5,16 @@
 ## Big-O
 
 * [1 - What Data Can Do?](big-o/1-what-data-can-do/README.md)
+  * [Big Data & Thuật Toán](big-o/1-what-data-can-do/big-data-and-thuat-toan.md)
   * [Activities: Your Spotify Data](big-o/1-what-data-can-do/d-aty-your-spotify-data.md)
   * [Discussion: Algorithms & Data Privacy](big-o/1-what-data-can-do/discussion-algorithms-and-data-privacy.md)
 * [2 - Everyone Can Read Data](big-o/2-everyone-can-read-data/README.md)
+  * [Thống kê = "Đếm"](big-o/2-everyone-can-read-data/thong-ke-dem.md)
+  * [DataViz & Storytelling](big-o/2-everyone-can-read-data/dataviz-and-storytelling.md)
   * [Activities: Data all-around You](big-o/2-everyone-can-read-data/activities-data-all-around-you.md)
 * [3 - Everyone Can Data Analytics](big-o/3-everyone-can-data-analytics/README.md)
+  * [Signal-and-Noise](big-o/3-everyone-can-data-analytics/signal-and-noise.md)
+  * [Correlation-and-Causation](big-o/3-everyone-can-data-analytics/correlation-and-causation.md)
   * [Activities: COVID by Data](big-o/3-everyone-can-data-analytics/activities-covid-by-data.md)
 * [4 - Data Sceptic](big-o/4-data-sceptic.md)
 * [Reference](big-o/reference.md)
