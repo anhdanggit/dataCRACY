@@ -50,7 +50,21 @@ Tại sao tổng tỷ lệ % được nhận của Nam lại cao hơn Nữ \(24%
 | Thú  | 338 | 53 | 16% | 180 | 22 | 12% |
 | \*\*\*\* | **1,184** | **274** | **23%** | **2,470** | **584** | **24%** |
 
-### Chúng ta luôn lấy giá trị trung 
+### Giá rị trung bình?
+
+{% tabs %}
+{% tab title="Hỏi" %}
+**Thu nhập cũng trung bình thôi...**
+
+Khi một người nói: "Thu nhập tôi cũng chỉ trung bình thôi"  
+Anh ta có khấm khá hơn đa số đám đông? \(Giả sử ước lượng thu nhập của anh ta bằng giá trị trung bình là đúng sự thật\)
+{% endtab %}
+
+{% tab title="Hint" %}
+* Đa số các yếu tố tự nhiên \(có tính ngẫu nhiên\) sẽ có dạng phân phối tự nhiên \(hình chuông\)
+* Thu nhập là dạng data không đi theo phân phối tự nhiên
+{% endtab %}
+{% endtabs %}
 
 
 
