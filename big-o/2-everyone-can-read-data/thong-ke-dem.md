@@ -27,6 +27,29 @@ Truy cập: [https://databasic.io/en/wtfcsv](https://databasic.io/en/wtfcsv)
 
 ### Cẩn thận với %
 
+{% tabs %}
+{% tab title="Hỏi" %}
+**Nghịch lý % - Data Tuyển Sinh ĐH Cambridge 1996**
+
+Tại sao tổng tỷ lệ % được nhận của Nam lại cao hơn Nữ \(24% &gt; 23%\), trong khi từng ngành riêng lẻ, Nữ có tỷ lệ % được nhận cao hơn Nam?
+{% endtab %}
+
+{% tab title="Hint" %}
+* Vì Tỷ lệ Nữ đăng ký vào các ngành "khó" - Y và Thú `(338 + 416) / 1,184 = 63%` cao hơn hẳn Nam `(140 + 22) / 584 = 27%`
+* Cả 2 ngành này có tỷ lệ đậu thấp ở cả Nam lẫn 
+{% endtab %}
+{% endtabs %}
+
+|  |  |  |  |  |  |  |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+|  |  | Accept | % |  |  | % |
+| Computer  | 26 | 7 | 27% | 228 | 58 | 25% |
+| Kinh  | 240 | 63 | 26% | 512 | 112 | 22% |
+| Kỹ  | 164 | 52 | 32% | 972 | 252 | 26% |
+|  | 416 | 99 | 24% | 578 | 140 | 24% |
+| Thú  | 338 | 53 | 16% | 180 | 22 | 12% |
+| \*\*\*\* | **1,184** | **274** | **23%** | **2,470** | **584** | **24%** |
+
 ### Chúng ta luôn lấy giá trị trung 
 
 
