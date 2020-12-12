@@ -6,8 +6,7 @@
 {% tab title="Data Yourself" %}
 Truy cập: [https://databasic.io/en/wtfcsv](https://databasic.io/en/wtfcsv)
 
-* [ ] Nhấn 
-* [ ] Nhấn 
+* [ ] Nhấn phân tích "Analyze"
 * [ ] Bạn thấy gì từ kết quả?
 {% endtab %}
 {% endtabs %}
