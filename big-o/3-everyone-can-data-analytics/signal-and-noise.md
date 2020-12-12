@@ -4,7 +4,7 @@ description: Confidence Intervals
 
 # Confidence Intervals
 
-## Confidence 
+## Confidence Int
 
 ## Xác suất \(Thống kê\)
 
