@@ -19,9 +19,13 @@ Truy cập: [https://databasic.io/en/wtfcsv](https://databasic.io/en/wtfcsv)
 ## Phân phối cho ta những thông tin gì?
 
 * Bạn đứng đâu trong đám đông? Tương t: S[potify Music ](../1-what-data-can-do/d-aty-your-spotify-data.md#gout-nhac-cua-ban-di-den-dau)
+* Tìm giá  "đại diện": Trung Bình \(Average\), Trung Vị \(Median\)
+* Đo độ trải của data: Thể hiện độ lệch của các điểm data xung quanh giá trị đại 
 * Dot-diagram, histogram, box-and-whisker
-* Tìm giá  "đại diện": Trung Bình \(Average\), Trung Vị \(Median\), Mode 
-* Đo độ trải của data: Standard 
+
+![](../../.gitbook/assets/image%20%2816%29.png)
+
+![](../../.gitbook/assets/image%20%2817%29.png)
 
 ## Data Fall
 
