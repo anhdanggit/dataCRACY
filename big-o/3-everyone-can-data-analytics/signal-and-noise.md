@@ -14,7 +14,6 @@ Probability is the language of
 
 * Population & Sample
 * Law of Large Number: Tại sao chúng ta cần quan tâm đến size của 
-* Boots
 
 ## AB Testing
 
