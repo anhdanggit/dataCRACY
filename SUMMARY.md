@@ -13,7 +13,7 @@
   * [Thống kê = "Đếm"](big-o/2-everyone-can-read-data/thong-ke-dem.md)
   * [Activities: Data all-around You](big-o/2-everyone-can-read-data/activities-data-all-around-you.md)
 * [3 - Everyone Can Data Analytics](big-o/3-everyone-can-data-analytics/README.md)
-  * [Signal-and-Noise](big-o/3-everyone-can-data-analytics/signal-and-noise.md)
+  * [Confidence Intervals](big-o/3-everyone-can-data-analytics/signal-and-noise.md)
   * [Correlation-and-Causation](big-o/3-everyone-can-data-analytics/correlation-and-causation.md)
   * [Activities: COVID by Data](big-o/3-everyone-can-data-analytics/activities-covid-by-data.md)
 * [4 - Data Sceptic](big-o/4-data-sceptic.md)
