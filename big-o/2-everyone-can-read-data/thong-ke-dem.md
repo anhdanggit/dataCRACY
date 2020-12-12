@@ -40,7 +40,7 @@ Tại sao tổng tỷ lệ % được nhận của Nam lại cao hơn Nữ \(24%
 {% endtab %}
 {% endtabs %}
 
-|  |  |  |  |  |  |  |
+|  | W |  |  |  |  |  |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 |  |  | Accept | % |  |  | % |
 | Computer  | 26 | 7 | 27% | 228 | 58 | 25% |
