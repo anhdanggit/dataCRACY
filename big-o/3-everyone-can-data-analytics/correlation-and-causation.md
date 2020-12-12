@@ -6,6 +6,10 @@ description: Nhân quả và tương quan
 
 ## Correlation & Causation
 
+{% hint style="info" %}
+Vào ĐH làm tăng tỷ lệ Bướu Não?
+{% endhint %}
+
 * Hai metrics di chuyển cùng chiều không có nghĩa là chúng có liên quan \(Spurious Correlation\)
 * Tương quan không có nghĩa là nhân quả
   * Tỷ lệ được chuẩn đoán U Não và Trình Độ Học 
