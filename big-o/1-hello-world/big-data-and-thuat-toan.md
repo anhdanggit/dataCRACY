@@ -53,7 +53,10 @@
 
 ![](../../.gitbook/assets/image%20%2813%29.png)
 
-## Tương tác với Thuật 
+## Tương tác với Thuật Toán
+
+1. [https://experiments.withgoogle.com/teachable-machine](https://experiments.withgoogle.com/teachable-machine)
+2. More here: [https://experiments.withgoogle.com/collection/ai](https://experiments.withgoogle.com/collection/ai)
 
 ![https://quickdraw.withgoogle.com/](../../.gitbook/assets/image.png)
 
