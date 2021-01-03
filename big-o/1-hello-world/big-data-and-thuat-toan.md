@@ -55,6 +55,10 @@
 
 ## Tương tác với Thuật 
 
+![https://quickdraw.withgoogle.com/](../../.gitbook/assets/image.png)
+
+## Dạng Data Đặc 
+
 ### Data Dạng Text 
 
 {% tabs %}
