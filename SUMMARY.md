@@ -5,10 +5,10 @@
 ## Big-O
 
 * [Giới Thiệu: Big-O](big-o/gioi-thieu-big-o.md)
-* [Datatalk\#1 - Hello World](big-o/1-what-data-can-do/README.md)
-  * [Big Data & Thuật Toán](big-o/1-what-data-can-do/big-data-and-thuat-toan.md)
-  * [Activities: Your Spotify Data](big-o/1-what-data-can-do/d-aty-your-spotify-data.md)
-  * [Discussion: Algorithms & Data Privacy](big-o/1-what-data-can-do/discussion-algorithms-and-data-privacy.md)
+* [Datatalk\#1 - Hello World](big-o/1-hello-world/README.md)
+  * [Big Data & Thuật Toán](big-o/1-hello-world/big-data-and-thuat-toan.md)
+  * [DataYourself: Your Spotify Data](big-o/1-hello-world/d-aty-your-spotify-data.md)
+  * [Discussion: Algorithms & Data Privacy](big-o/1-hello-world/discussion-algorithms-and-data-privacy.md)
 * [Datatalk\#2 - Data Đọc-Hiểu](big-o/2-everyone-can-read-data/README.md)
   * [DataViz & Storytelling](big-o/2-everyone-can-read-data/dataviz-and-storytelling.md)
   * [Thống kê = "Đếm"](big-o/2-everyone-can-read-data/thong-ke-dem.md)

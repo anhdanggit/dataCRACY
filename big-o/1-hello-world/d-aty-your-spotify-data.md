@@ -2,7 +2,7 @@
 description: 'DataYourself Activities for the Session 1: What Data Can Do?'
 ---
 
-# Activities: Your Spotify Data
+# DataYourself: Your Spotify Data
 
 ### Spotify Data
 
@@ -33,10 +33,6 @@ Truy cập vào [http://organizeyourmusic.playlistmachinery.com/](http://organiz
 * [ ] Login qua portal của Spotify
 * [ ] `The Track List` Có các thông tin gì đi kèm một bài hát?
 * [ ] `The Plot` tự tìm tòi Spotify data của chính bạn qua interactive 
-{% endtab %}
-
-{% tab title="Data Concepts" %}
-
 {% endtab %}
 {% endtabs %}
 
