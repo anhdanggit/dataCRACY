@@ -17,7 +17,7 @@
   * [Confidence Intervals](big-o/3-everyone-can-data-analytics/signal-and-noise.md)
   * [Correlation-and-Causation](big-o/3-everyone-can-data-analytics/correlation-and-causation.md)
   * [Activities: COVID by Data](big-o/3-everyone-can-data-analytics/activities-covid-by-data.md)
-* [Datatalk\#4 - Data Career Paths](big-o/4-data-sceptic.md)
+* [Datatalk\#4 - Data & Careers](big-o/4-data-sceptic.md)
 * [Reference](big-o/reference.md)
 
 ## ATOM

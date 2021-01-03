@@ -1,4 +1,4 @@
-# Datatalk\#4 - Data Career Paths
+# Datatalk\#4 - Data & Careers
 
 
 
