@@ -55,7 +55,7 @@ Truy cập vào [Obscurify Music](https://obscurifymusic.com/home)
 {% tab title="Data Concepts" %}
 #### Chúng ta sẽ hiểu con số `80%` như thế nào?
 
-![Gout nh&#x1EA1;c c&#x1EE7;a b&#x1EA1;n &quot;D&#x1ECB;&quot; h&#x1A1;n 80% Vietnamese Users on Obscrify](../../.gitbook/assets/image%20%283%29.png)
+![Gout nh&#x1EA1;c c&#x1EE7;a b&#x1EA1;n &quot;D&#x1ECB;&quot; h&#x1A1;n 80% Vietnamese Users on Obscrify](../../.gitbook/assets/image%20%285%29.png)
 
 * Trên **X-axis \(trục hoành\)**: Điểm số của sự “Dị” - `Obscurity Score` \(tính toán trên lịch sử nghe\). Điểm càng cao thì gout nhạc càng dị, và càng thấp nếu gout nhạc đại chúng
 * Trên **Y-axis \(trục tung\)**: Số lượng users trên từng mức điểm
@@ -88,7 +88,7 @@ Truy cập vào [Obscurify Music](https://obscurifymusic.com/home)
 Spotify đang connect với những thông tin cá nhân nào khác của bạn ngoài Spotify \(Facebook, thông tin để quảng cáo “target” bạn\)
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%282%29.png)
+![](../../.gitbook/assets/image%20%284%29.png)
 
 #### Download Your 
 
@@ -105,7 +105,7 @@ Trên thế giới, có nhiều social activists và tổ chức độc lập đ
 
 _Hint: Chú ý đến tên X-axis, Y-axis. Và "concept" của Obscurity Score._
 
-![](../../.gitbook/assets/image%20%285%29.png)
+![](../../.gitbook/assets/image%20%285%29%20%281%29.png)
 {% endtab %}
 {% endtabs %}
 

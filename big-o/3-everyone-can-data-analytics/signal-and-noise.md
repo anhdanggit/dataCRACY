@@ -11,7 +11,7 @@ Vào tháng 1, 2018 - BBC đưa tin: Tỷ lệ thất nghiệp ở UK giảm 3,0
 Sai số +/- 77,000 
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%2818%29.png)
+![](../../.gitbook/assets/image%20%2818%29%20%281%29.png)
 
 ## Xác suất \(Thống kê\)
 

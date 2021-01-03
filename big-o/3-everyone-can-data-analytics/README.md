@@ -1,4 +1,4 @@
-# 3 - Everyone Can Data Analytics
+# Datatalk\#3 - Data Thinking
 
 
 

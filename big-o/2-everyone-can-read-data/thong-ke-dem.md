@@ -48,7 +48,7 @@ Tại sao tổng tỷ lệ % được nhận của Nam lại cao hơn Nữ \(24%
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 |  | Applied Economics | Accepted | % | Applied | Accepted | % |
 | Computer Science | 26 | 7 | 27% | 228 | 58 | 25% |
-| Kinh Tế Hộc  | 240 | 63 | 26% | 512 | 112 | 22% |
+| Kinh Tế Hộc | 240 | 63 | 26% | 512 | 112 | 22% |
 | Kỹ Sư | 164 | 52 | 32% | 972 | 252 | 26% |
 | Y | 416 | 99 | 24% | 578 | 140 | 24% |
 | Thú Y | 338 | 53 | 16% | 180 | 22 | 12% |
@@ -69,6 +69,4 @@ Anh ta có khấm khá hơn đa số đám đông? \(Giả sử ước lượng 
 * Thu nhập là dạng data không đi theo phân phối tự nhiên
 {% endtab %}
 {% endtabs %}
-
-
 
