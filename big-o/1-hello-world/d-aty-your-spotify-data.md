@@ -1,7 +1,3 @@
----
-description: 'DataYourself Activities for the Session 1: What Data Can Do?'
----
-
 # DataYourself: Your Spotify Data
 
 ### Spotify Data
