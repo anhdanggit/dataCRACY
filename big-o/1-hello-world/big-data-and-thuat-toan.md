@@ -1,4 +1,4 @@
-# Big Data & Thuật Toán
+# DataYourself\#1.2: Tương tác với Thuật Toán
 
 ## Big Data
 
@@ -55,7 +55,7 @@
 
 ## Các concepts 
 
-### Text as 
+### Data Dạng Text 
 
 {% tabs %}
 {% tab title="Data Yourself" %}
@@ -75,7 +75,7 @@ Truy cập: [https://databasic.io/en/wordcounter](https://databasic.io/en/wordco
 {% endtab %}
 {% endtabs %}
 
-### Đo độ giống nhau giữa 2 style viết lờ
+### Đo độ giống nhau giữa 2 style viết lời 
 
 {% tabs %}
 {% tab title="Data Yourself" %}
