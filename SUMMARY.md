@@ -4,6 +4,7 @@
 
 ## Big-O
 
+* [Giới Thiệu: Big-O](big-o/gioi-thieu-big-o.md)
 * [Datatalk\#1 - Hello World](big-o/1-what-data-can-do/README.md)
   * [Big Data & Thuật Toán](big-o/1-what-data-can-do/big-data-and-thuat-toan.md)
   * [Activities: Your Spotify Data](big-o/1-what-data-can-do/d-aty-your-spotify-data.md)
