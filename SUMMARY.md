@@ -6,8 +6,8 @@
 
 * [Giới Thiệu: Big-O](big-o/gioi-thieu-big-o.md)
 * [Datatalk\#1 - Hello World](big-o/1-hello-world/README.md)
-  * [DataYourself\#1.2: Tương tác với Thuật Toán](big-o/1-hello-world/big-data-and-thuat-toan.md)
   * [DataYourself\#1.1: Your Spotify Data](big-o/1-hello-world/d-aty-your-spotify-data.md)
+  * [DataYourself\#1.2: Tương tác với Thuật Toán](big-o/1-hello-world/big-data-and-thuat-toan.md)
   * [Discussion: Algorithms & Data Privacy](big-o/1-hello-world/discussion-algorithms-and-data-privacy.md)
 * [Datatalk\#2 - Data Đọc-Hiểu](big-o/2-everyone-can-read-data/README.md)
   * [DataViz & Storytelling](big-o/2-everyone-can-read-data/dataviz-and-storytelling.md)
