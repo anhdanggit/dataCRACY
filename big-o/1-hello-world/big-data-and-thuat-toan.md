@@ -56,7 +56,9 @@
 ## Tương tác với Thuật Toán
 
 1. [https://experiments.withgoogle.com/teachable-machine](https://experiments.withgoogle.com/teachable-machine)
-2. More here: [https://experiments.withgoogle.com/collection/ai](https://experiments.withgoogle.com/collection/ai)
+2. [https://www.scroobly.com/](https://www.scroobly.com/)
+3. [https://experiments.withgoogle.com/ai/bird-sounds/view/](https://experiments.withgoogle.com/ai/bird-sounds/view/) \(Clustering\)
+4. More here: [https://experiments.withgoogle.com/collection/ai](https://experiments.withgoogle.com/collection/ai)
 
 ![https://quickdraw.withgoogle.com/](../../.gitbook/assets/image.png)
 
