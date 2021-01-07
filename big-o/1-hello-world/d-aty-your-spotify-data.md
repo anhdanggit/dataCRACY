@@ -23,7 +23,7 @@ Trong session này, hãy cùng xem Spotify có những data của bạn và tư�
 ### Organize Your Music
 
 {% tabs %}
-{% tab title="Step-by-Step" %}
+{% tab title="Hoạt Động \#1" %}
 Truy cập vào [http://organizeyourmusic.playlistmachinery.com/](http://organizeyourmusic.playlistmachinery.com/#)
 
 * [ ] Login qua portal của Spotify
@@ -35,7 +35,7 @@ Truy cập vào [http://organizeyourmusic.playlistmachinery.com/](http://organiz
 ### Gout Nhạc của bạn “Dị” đến đâu?
 
 {% tabs %}
-{% tab title="Step-by-Step" %}
+{% tab title="Hoạt Động \#2" %}
 Truy cập vào [Obscurify Music](https://obscurifymusic.com/home)
 
 * [ ] Truy cập vào [Obscurify Music](https://obscurifymusic.com/home)
@@ -44,7 +44,7 @@ Truy cập vào [Obscurify Music](https://obscurifymusic.com/home)
 * [ ] Check tab `About` của [www.obscurifymusic.](www.obscurifymusic.com)
 {% endtab %}
 
-{% tab title="Data Concepts" %}
+{% tab title="Khái niệm" %}
 #### Chúng ta sẽ hiểu con số `80%` như thế nào?
 
 ![Gout nh&#x1EA1;c c&#x1EE7;a b&#x1EA1;n &quot;D&#x1ECB;&quot; h&#x1A1;n 80% Vietnamese Users on Obscrify](../../.gitbook/assets/image%20%285%29.png)
@@ -68,7 +68,7 @@ Truy cập vào [Obscurify Music](https://obscurifymusic.com/home)
 * Nếu là bạn, bạn sẽ đo độ “Dị” \(`Obscurity Score` như thế nào\)
 {% endtab %}
 
-{% tab title="Protect Your Data" %}
+{% tab title="Bảo vệ Data Cá nhân" %}
 #### Data Privacy: 
 
 * [ ] Trên góc phải, mục `Menu`, Click `Remove Obscurify Account`: Bạn sẽ được dẫn tới website chính thức của Spotify. Tại đây Spotify sẽ list tất cả những website/apps đang có access vào data Spotify của bạn
