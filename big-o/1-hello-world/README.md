@@ -40,7 +40,7 @@ Bởi chúng tôi tin rằng, một cách tốt để bảo vệ Con Người tr
 ## **Datatalk\#1 - Hello World**
 
 1. Trước **Datatalk\#1**, Người Tham Gia được khuyến khích đọc trước tài liệu:
-   * [Mặt Trái của Big](mat-trai-cua-big-data.md) 
+   * [Mặt Trái của Big Data ](mat-trai-cua-big-data.md)
    * [Truyện ngắn: Học-máy](truyen-ngan-hoc-may.md)
 2. Trong **Datatalk\#1**, buổi workshop sẽ trao đổi và thảo luận dựa trên nội dung của 04 bài đọc:
    * Thường thức về Thuật Toán
