@@ -148,7 +148,15 @@ Bấm vào **`Under the hood`** trong cột **Training**.
 * **Accuracy per class \(Độ chính xác trên mỗi nhóm\)**: % lần mô hình đoán đúng trên tập Test
 * **Confusion Matrix:** Tương quan giữa kết quả mô hình đoán và kết quả thực tế
 * Accuracy được đo trên Training sample và Test sample ⇒ Để coi đứa nhỏ có học "vẹt" không \(Đoán rất tốt trên training sample, nhưng đoán tệ trên test sample\)
-* Máy sẽ nỗ lực học cho đến khi tối ưu được các chỉ số để đo tính đúng đắn \(Accuracy bên trên không phải là chỉ số duy nhất. Đọc thêm: [AUC-ROC](https://noron.vn/post/tim-hieu-chi-tiet-ve-auc---roc-trong-machine-learn-1fz9nhqo5ut)\)
+
+**Cụ thể:**
+
+* **Training Sample**: `X` \(, quan sát được\) map với `y` \(nhãn, quan sát được\) =&gt; Rút ra quy luật: `f( )`
+* `f( )` có tính tổng quát: Đúng với cả **Test Sample**: `X'`, `y'` \(không cho mô hình coi\)
+* **Predict:** `y_pred = f(X')`
+* **Accuracy:** So sanh `y_pred` với `y'`
+
+Máy sẽ nỗ lực học cho đến khi tối ưu được các chỉ số để đo tính đúng đắn \(Accuracy bên trên không phải là chỉ số duy nhất. Đọc thêm: [AUC-ROC](https://noron.vn/post/tim-hieu-chi-tiet-ve-auc---roc-trong-machine-learn-1fz9nhqo5ut)\)
 
 ## Ứng dụng trong Cuộc Sống
 
@@ -254,4 +262,15 @@ Mong rằng hiểu thêm một chút về Thuật Toán để tất cả chúng 
 Máy móc có thể hỗ trợ, nhưng không thể hoàn toàn thay thế cách chúng ta lựa chọn trong cuộc sống.
 
 Như một đứa trẻ, càng cho chúng xem nhiều ví dụ chúng càng thông minh. Thuật toán, ML/AI trở quyền lực như vậy, nhờ: **Big Data**. Lượng thông tin cá nhân, hành vi, digital footprint hàng tỷ người để lại trên mạng Xã hội, giúp chúng hiểu chúng ta hơn cả chúng ta hiểu chính mình. Khiến công nghệ đứng trước những câu hỏi nền tảng về xã hội và loài người.
+
+## Recap
+
+* **Thuật Toán:** Các tác vụ được lập trình theo bước \(để máy tính\) giải quyết một vấn đề/bài
+* Thuật Toán có thể đơn giản \(Ruled-based\) hay phức tạp như AI/ML
+* **Machine Learning:** dạy "máy móc" như dạy một đứa =&gt; Học bằng ví dụ \(dữ liệu\)
+* Dùng data trong quá khứ \(`X`\) để tạo ra một thuật toán hay phương trình: `f( )` nhằm tự động trả kết quả `(y_pred)` cho một dữ liệu đầu vào mới `(X')`
+* Thuật toán trở nên quan trọng và chi phố loài người, nhờ lượng Big Data chúng được học
+* Thuật toán không nhất thiết luôn đúng đắn và giúp đỡ con người nhằm mục đích tốt
+
+## 
 
