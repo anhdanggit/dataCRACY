@@ -235,7 +235,7 @@ Với các chủ đề bên dưới, bạn sẽ thiết kế một thuật toán
 3. Từ 04 nhóm thuật toán, bạn sẽ thiết kế ra các ứng dụng nào?
 {% endhint %}
 
-### Trí tuệ Người và 
+### Trí tuệ Người & Máy 
 
 * **Rule-based** \(bởi con người\) không nhất thiết kém hiệu quả hơn ML/AI. Có rất nhiều bài toán \(nhất là khi Data còn hạn chế\), rule-based sẽ hợp lý và hiệu quả hơn
 * **Rule-based** còn có ưu điểm là dễ hiểu, dễ thực hiện. Nhưng vì vậy, rule-based chỉ áp dụng được trong những trường hợp con người hiểu tốt vấn đề của họ.
