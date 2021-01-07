@@ -36,9 +36,12 @@ Bởi chúng tôi tin rằng, một cách tốt để bảo vệ Con Người tr
 
 ## **Datatalk\#1 - Agenda**
 
+{% hint style="info" %}
+## **Datatalk\#1 - Hello World**
+
 1. Trước **Datatalk\#1**, Người Tham Gia được khuyến khích đọc trước tài liệu:
-   * [1.0. Phép Màu của Thuật Toán?](https://www.notion.so/1-0-Ph-p-M-u-c-a-Thu-t-To-n-ddac0a1a908842df8fb70eb486fba488)
-   * [1.1. Thời Đại Big Data](https://www.notion.so/1-1-Th-i-i-Big-Data-9293d09f6076422eb0193568b6afcaf1)
+   * [Mặt Trái của Big ](mat-trai-cua-big-data.md)
+   * [Truyện ngắn: Học-máy](truyen-ngan-hoc-may.md)
 2. Trong **Datatalk\#1**, buổi workshop sẽ trao đổi và thảo luận dựa trên nội dung của 04 bài đọc:
    * Thường thức về Thuật Toán
    * Thường thức Big Data
@@ -48,6 +51,7 @@ Bởi chúng tôi tin rằng, một cách tốt để bảo vệ Con Người tr
    * Tiếp tục khám phá: [https://experiments.withgoogle.com/collection/ai](https://experiments.withgoogle.com/collection/ai)
    * Chia sẻ quan điểm và giúp lan truyền thông điệp của dự án với hashtag `#DATACracy` `#BigO_Datatalk` `#HelloWorld`
    * Theo dõi và đọc các nội dung tiếp theo của **DATACracy**
+{% endhint %}
 
 ## **Nguồn tham khảo**
 
