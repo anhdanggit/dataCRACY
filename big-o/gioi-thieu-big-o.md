@@ -13,7 +13,7 @@ Mục đích của Big-O là phổ cập thường thức về Data và Thuật 
 {% hint style="info" %}
 1. [Ý thức về Quyền và Tự Bảo Vệ Thông Tin Cá Nhân](1-hello-world/)
 2. Đọc-Hiểu Data
-3. Tư Duy với 
+3. Tư Duy với Data 
 4. Hướng nghiệp cho các bạn muốn tìm hiểu và xây dựng thế mạnh về Data.
 {% endhint %}
 
