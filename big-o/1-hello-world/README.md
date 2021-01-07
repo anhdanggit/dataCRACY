@@ -1,6 +1,6 @@
 # Datatalk\#1 - Hello World
 
-
+![](../../.gitbook/assets/135326962_180711207127903_3744644922081944642_o.jpg)
 
 ## **Dẫn nhập**
 
@@ -56,5 +56,5 @@ Bởi chúng tôi tin rằng, một cách tốt để bảo vệ Con Người tr
 3. Đặng Huỳnh Mai Anh \(2018\). _Mặt Trái của Big Data_. [Medium](https://medium.com/@anh.dang./m%E1%BA%B7t-tr%C3%A1i-c%E1%BB%A7a-big-data-6f09e1b236eb).
 4. Đặng Huỳnh Mai Anh \(2020\). _Truyện ngắn Học Máy. Trích Tập truyện ngắn Hai-Mươi-Bảy._ NXB Thế Giới.
 5. [Black Mirror. _Series 3. Episode 1. Nosedive_](https://en.wikipedia.org/wiki/Nosedive_%28Black_Mirror%29) \(Directed by Joe Wright, Story by Charlie Brooker\)
-6. \[The Social Dilemma\]\([https://en.wikipedia.org/wiki/The\_Social\_Dilemma\#:~:text=The Social Dilemma is a,Davis Coombe%2C and Vickie Curtis.\)](https://en.wikipedia.org/wiki/The_Social_Dilemma#:~:text=The%20Social%20Dilemma%20is%20a,Davis%20Coombe%2C%20and%20Vickie%20Curtis.%29) \(2020\). Documentary \(Directed by Jeff Orlowski\)
+6. [The Social Dilemma](https://en.wikipedia.org/wiki/The_Social_Dilemma#:~:text=The%20Social%20Dilemma%20is%20a,Davis%20Coombe%2C%20and%20Vickie%20Curtis.%29) \(2020\). Documentary \(Directed by Jeff Orlowski\)
 
