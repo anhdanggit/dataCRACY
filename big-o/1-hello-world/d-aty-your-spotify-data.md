@@ -1,4 +1,4 @@
-# DataYourself\#1.1: Your Spotify Data
+# DataYourself: Your Spotify Data
 
 ### Spotify Data
 
