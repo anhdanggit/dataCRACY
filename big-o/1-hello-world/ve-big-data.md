@@ -1,3 +1,7 @@
+---
+description: Vì sao Big Data trở thành "màu sắc" của thời đại?
+---
+
 # Big Data
 
 ## Text, Âm thanh, Hình Ảnh
