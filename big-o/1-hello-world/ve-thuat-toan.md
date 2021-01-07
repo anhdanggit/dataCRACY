@@ -20,6 +20,8 @@ Theo một định nghĩa rộng hơn \(và dễ hiểu hơn\), Thuật toán l�
 
 ### Thử viết Thuật Toán: Robot giao hàng
 
+![](../../.gitbook/assets/image%20%2819%29.png)
+
 {% tabs %}
 {% tab title="Hỏi" %}
 Chuỗi lệnh bên: `Phải-Lên-Phải-Phải-Lên`. Sẽ đưa Robot giao hàng đến nhà màu hồng. Lưu ý: Robot chỉ bay được trên các ô trắng:
@@ -33,8 +35,6 @@ Chuỗi lệnh bên: `Phải-Lên-Phải-Phải-Lên`. Sẽ đưa Robot giao hà
 {% endtab %}
 {% endtabs %}
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6c7d1d41-df82-4782-bc85-a2315f0d5214/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6c7d1d41-df82-4782-bc85-a2315f0d5214/Untitled.png)
-
 ### IF-ELSE-THEN: Ngôn Ngữ của Máy Tính
 
 Bạn đã điền qua [Trắc Nghiệm Data Persona](https://www.notion.so/Big-O-d543563c16d14409bf9c204228bfec3f)? Đây chính là một Thuật Toán.
@@ -45,9 +45,7 @@ Bạn đã điền qua [Trắc Nghiệm Data Persona](https://www.notion.so/Big-
   * Phân bạn vào một nhóm Persona \(Người Quan tâm, Người Đọc Hiểu, Người Suy Luận, hay Người Theo Đuổi\) ⇒ Đây là **Thuật Toán Phân Cụm** Đơn Giản \(`Clustering Algorithm`\)
   * Gợi ý các nội dung phù hợp với bạn ⇒ Đây là **Thuật Toán Gợi Ý** Đơn Giản \(`Recommendation Algorithms`\)
 
-    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6720c62a-ccc8-438c-b44a-56b1e604781d/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6720c62a-ccc8-438c-b44a-56b1e604781d/Untitled.png)
-
-    Những gì xảy ra Phía sau Trắc Nghiệm Data Persona
+![Nh&#x1EEF;ng g&#xEC; x&#x1EA3;y ra Ph&#xED;a sau Tr&#x1EAF;c Nghi&#x1EC7;m Data Persona](../../.gitbook/assets/image%20%283%29.png)
 
 Khi đi sau vào setting của Trắc Nghiệm này, bạn sẽ thấy Giao Diện như trên:
 
@@ -67,7 +65,35 @@ Ví dụ, trong trắc nghiệm Data Persona, có điều kiện: Nếu người
 
 ## Đến... Trí Tuệ Nhân Tạo \(AI\)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/408082c6-30e2-4e3e-b010-97bd609e5fca/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/408082c6-30e2-4e3e-b010-97bd609e5fca/Untitled.png)
+![](../../.gitbook/assets/image%20%2820%29.png)
+
+Trở lại với Robot giao hàng của chúng ta, và bài toán giống-giống mà khác:
+
+![](../../.gitbook/assets/image%20%286%29.png)
+
+{% tabs %}
+{% tab title="Hỏi" %}
+**Bạn thấy có điểm chung của 2 "ứng dụng" đã tương tác bên trên?**
+
+* Máy Tính: Nhận `input` gì từ bạn?
+* Máy Tính: Trả ra `output` gì?
+* Bạn nghĩ có thể thương mại hoá các ứng dụng trên như thế nào?
+{% endtab %}
+
+{% tab title="Hints" %}
+* **Điểm chung:** Thuật toán nhận một input từ con người, và trả ra một output.
+* **Input:** Hình vẽ, Video
+* **Output:** Đoán đồ vật được vẽ, cho điểm "khẩu hình" khớp lời
+{% endtab %}
+{% endtabs %}
+
+* **Hãy viết "thuật toán" mới để Robot giao đến Nhà màu Hồng?**
+
+Bạn có thấy phiền không? Và nếu chúng ta có một vạn ngôi nhà màu hồng ở các địa hình khác nhau? Chúng ta phải viết một vạn thuật toán Trái-Phải-Lên-Xuống như vậy?
+
+> Nếu chúng ta có thể đơn giản chỉ cần nói: Robot giao đến nhà màu hồng? Và, nó tự tìm con đường của riêng nó?
+
+Đặt vấn đề như vậy, chúng ta đã chuyển từ các Thuật Toán đơn giản lên **Trí Tuệ Nhân Tạo**.
 
 {% hint style="success" %}
 **Hoạt Động \#1**
@@ -77,8 +103,6 @@ Ví dụ, trong trắc nghiệm Data Persona, có điều kiện: Nếu người
 {% endhint %}
 
 Bạn có nhận ra: Bạn vừa tương tác với **Trí Tuệ Nhân Tạo**?
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5b19cd35-8615-4986-8761-513110565dc4/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5b19cd35-8615-4986-8761-513110565dc4/Untitled.png)
 
 > **Trí tuệ nhân tạo:** máy móc có khả năng mô phỏng, bắt chước các chất năng "nhận thức" của con người: Nghe, nhìn, đọc, giao tiếp, chơi cờ, sáng tác nghệ thuật, ra quyết định \(gợi ý nội dung, đánh giá rủi ro, dự đoán tương lai\)...
 
@@ -90,7 +114,7 @@ Vậy cái Trí Tuệ Nhân Tạo làm cách nào mà nhìn được cái hình 
 
 À, vì Thuật toán đằng sau `Quick, Draw!` đã "học" **147,814 bức vẽ** Máy Rửa Chén từ đèm đẹp đến xấu banh của người dùng Internet. Đây là các "ví dụ" nó đã học.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/26a6fa64-1171-47a5-92dd-30ebc9a684ac/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/26a6fa64-1171-47a5-92dd-30ebc9a684ac/Untitled.png)
+![](../../.gitbook/assets/image%20%2822%29.png)
 
 Mỗi khi so phải giải thích về Machine Learning thật dễ hiểu, tôi ưa lấy ví dụ bằng: Thay vì một chuỗi mệnh đề IF-ELSE cổ điển, ta dạy máy móc như một đứa trẻ. Việc cho máy tính xem 147,814 bức vẽ cái máy giặt làm tôi liên tưởng đến việc dạy cho những đứa trẻ nhận biết đồ vật, chữ cái, hình học bằng việc chỉ cho chúng xem những thẻ hình.
 
@@ -110,11 +134,21 @@ Máy thật sự cũng học như vậy.
 5. Sau khi train xong, ở khung **Preview** sẽ nhận diện hình ảnh của bạn \(`Input`\). Mình giơ thử sách Hai-mươi-bảy để xem Máy Tính có nhận ra không? ⇒ Mình đưa sách ở góc nghiêng \(hơi làm khó\) - Máy Tự tin Máy đúng: 84%
 {% endhint %}
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/338af6fd-6c03-4e13-b90e-5b6a7241279c/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/338af6fd-6c03-4e13-b90e-5b6a7241279c/Untitled.png)
+![](../../.gitbook/assets/image%20%2821%29.png)
 
 Giống như "đứa trẻ" tiến bộ nhờ feedback của cha mẹ: "Đúng rồi! Hoan hô" - "Sai rồi. Lại nè". Thì Máy cũng vậy.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e2725655-00ca-4224-a2ba-36fa4030c9c6/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e2725655-00ca-4224-a2ba-36fa4030c9c6/Untitled.png)
+![](../../.gitbook/assets/image%20%2823%29.png)
+
+{% hint style="success" %}
+Bấm vào **`Under the hood`** trong cột **Training**.
+{% endhint %}
+
+* Khi bạn bấm `train`, máy sẽ chia hình ảnh của bạn thành **Training sample** \(đưa cho "đứa trẻ" học\) và **Test sample** \(đưa để kiểm tra "đứa trẻ"\)
+* **Accuracy per class \(Độ chính xác trên mỗi nhóm\)**: % lần mô hình đoán đúng trên tập Test
+* **Confusion Matrix:** Tương quan giữa kết quả mô hình đoán và kết quả thực tế
+* Accuracy được đo trên Training sample và Test sample ⇒ Để coi đứa nhỏ có học "vẹt" không \(Đoán rất tốt trên training sample, nhưng đoán tệ trên test sample\)
+* Máy sẽ nỗ lực học cho đến khi tối ưu được các chỉ số để đo tính đúng đắn \(Accuracy bên trên không phải là chỉ số duy nhất. Đọc thêm: [AUC-ROC](https://noron.vn/post/tim-hieu-chi-tiet-ve-auc---roc-trong-machine-learn-1fz9nhqo5ut)\)
 
 ## Ứng dụng trong Cuộc Sống
 
