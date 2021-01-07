@@ -106,7 +106,7 @@ Bạn có nhận ra: Bạn vừa tương tác với **Trí Tuệ Nhân Tạo**?
 
 > **Trí tuệ nhân tạo:** máy móc có khả năng mô phỏng, bắt chước các chất năng "nhận thức" của con người: Nghe, nhìn, đọc, giao tiếp, chơi cờ, sáng tác nghệ thuật, ra quyết định \(gợi ý nội dung, đánh giá rủi ro, dự đoán tương lai\)...
 
-## Machine Learning: Máy học thế nào?
+## ML: Máy học thế nào?
 
 > “Tôi nói đến đâu rồi nhỉ. À, Học Máy, nó cũng giống như cách con người học thôi. Người ta dạy máy móc y như cách con người được dạy dỗ”. \[...\] À, vậy thì hãy dạy máy như dạy một đứa trẻ. “Cô nghĩ một đứa trẻ học về thế giới như thế nào?”, hắn hỏi. \[…\] “Người ta cho chúng những ví dụ”, hắn tự đáp. Đây là một con chó, đây cũng là một con chó, đây là một con chó khác. Chỉ cho đứa trẻ một trăm lần, và gọi đó là con chó. Đứa trẻ rồi sẽ học được đó là chó. — _Đặng Huỳnh Mai Anh \(2020\). Truyện ngắn "Học Máy"_
 
@@ -114,9 +114,9 @@ Vậy cái Trí Tuệ Nhân Tạo làm cách nào mà nhìn được cái hình 
 
 À, vì Thuật toán đằng sau `Quick, Draw!` đã "học" **147,814 bức vẽ** Máy Rửa Chén từ đèm đẹp đến xấu banh của người dùng Internet. Đây là các "ví dụ" nó đã học.
 
-![](../../.gitbook/assets/image%20%2822%29.png)
+![](../../.gitbook/assets/image%20%2823%29.png)
 
-Mỗi khi so phải giải thích về Machine Learning thật dễ hiểu, tôi ưa lấy ví dụ bằng: Thay vì một chuỗi mệnh đề IF-ELSE cổ điển, ta dạy máy móc như một đứa trẻ. Việc cho máy tính xem 147,814 bức vẽ cái máy giặt làm tôi liên tưởng đến việc dạy cho những đứa trẻ nhận biết đồ vật, chữ cái, hình học bằng việc chỉ cho chúng xem những thẻ hình.
+Mỗi khi so phải giải thích về **Machine Learning \(ML\)** thật dễ hiểu, tôi ưa lấy ví dụ bằng: Thay vì một chuỗi mệnh đề IF-ELSE cổ điển, ta dạy máy móc như một đứa trẻ. Việc cho máy tính xem 147,814 bức vẽ cái máy giặt làm tôi liên tưởng đến việc dạy cho những đứa trẻ nhận biết đồ vật, chữ cái, hình học bằng việc chỉ cho chúng xem những thẻ hình.
 
 Và, sau khi chúng trả lời, bảo chúng "Đúng rồi!" \(Hoan hô\) hoặc "Sai rồi" \(Mặt buồn\).
 
@@ -138,7 +138,7 @@ Máy thật sự cũng học như vậy.
 
 Giống như "đứa trẻ" tiến bộ nhờ feedback của cha mẹ: "Đúng rồi! Hoan hô" - "Sai rồi. Lại nè". Thì Máy cũng vậy.
 
-![](../../.gitbook/assets/image%20%2823%29.png)
+![](../../.gitbook/assets/image%20%2824%29.png)
 
 {% hint style="success" %}
 Bấm vào **`Under the hood`** trong cột **Training**.
@@ -160,7 +160,72 @@ Thuật toán không nhất thiết là ML hay AI, thuật toán có thể là n
 
 Với các chủ đề bên dưới, bạn sẽ thiết kế một thuật toán rule-based như thế nào?
 
-### Các chủ đề phổ 
+### Các chủ đề phổ biển
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left">M&#xF4;</th>
+      <th style="text-align:left">&#x1EE8;ng d</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">&#x1AF;u ti&#xEA;n (Prioritization)</td>
+      <td style="text-align:left">Ranking c&#xE1;c l&#x1EF1;a ch&#x1ECD;n &#x111;&#x1EC3; t&#xEC;m ra l&#x1EF1;a
+        ch&#x1ECD;n t&#x1ED1;t nh&#x1EA5;t (theo ti&#xEA;u ch&#xED; c&#x1EE5; th&#x1EC3;)</td>
+      <td
+      style="text-align:left">
+        <ul>
+          <li>K&#x1EBF;t qu&#x1EA3; Google Search</li>
+          <li>Th&#x1EE9; t&#x1EF1; &#x1B0;u ti&#xEA;n trong Gmail</li>
+          <li>G&#x1EE3;i &#xFD; &#x111;&#x1B0;&#x1EDD;ng ng&#x1EAF;n nh&#x1EA5;t, h&#xE3;ng
+            bay r&#x1EBB; nh&#x1EA5;t</li>
+          <li><a href="https://ichi.pro/vi/cach-alphago-cua-deepmind-tro-thanh-ky-thu-co-vay-hang-dau-the-gioi-100224644496746">AlphaGo: c&#x1EDD; v&#xE2;y</a>
+          </li>
+        </ul>
+        </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Ph&#xE2;n lo&#x1EA1;i (Classification)</td>
+      <td style="text-align:left">D&#x1EF1;a v&#xE0;o c&#xE1;c thu&#x1ED9;c t&#xED;nh (features) quan s&#xE1;t
+        &#x111;&#x1B0;&#x1EE3;c c&#x1EE7;a c&#xE1; th&#x1EC3; (observations) ph&#xE2;n
+        v&#xE0;o c&#xE1;c nh&#xF3;m kh&#xE1;c nhau</td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Ph&#xE2;n lo&#x1EA1;i ng&#x1B0;&#x1EDD;i tham gia/kh&#xE1;ch h&#xE0;ng
+            (t&#x1B0;&#x1A1;ng t&#x1EF1; nh&#x1B0; Data Persona)</li>
+          <li>Ph&#xE2;n lo&#x1EA1;i th&#x1B0; r&#xE1;c (spam)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">T&#x1B0;&#x1A1;ng quan (Link)</td>
+      <td style="text-align:left">T&#xEC;m ra m&#x1ED1;i t&#x1B0;&#x1A1;ng quan</td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>Thu&#x1EAD;t to&#xE1;n Dating c&#x1EE7;a Tinder</li>
+          <li>Youtube g&#x1EE3;i &#xFD; c&#xE1;c b&#xE0;i nh&#x1EA1;c li&#xEA;n quan</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">L&#x1ECD;c (Filtering)</td>
+      <td style="text-align:left">L&#x1ECD;c nhi&#x1EC5;u v&#xE0; t&#x1EAD;p trung v&#xE0;o c&#xE1;c th&#xF4;ng
+        tin quan tr&#x1ECD;ng</td>
+      <td style="text-align:left">
+        <p></p>
+        <ul>
+          <li>X&#x1EED; l&#xFD; &#xE2;m thanh, h&#xEC;nh &#x1EA3;nh</li>
+          <li>News feed c&#x1EE7;a Facebook</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 {% hint style="success" %}
 **Hoạt Động \#2**
@@ -170,7 +235,7 @@ Với các chủ đề bên dưới, bạn sẽ thiết kế một thuật toán
 3. Từ 04 nhóm thuật toán, bạn sẽ thiết kế ra các ứng dụng nào?
 {% endhint %}
 
-### Trí tuệ on người &lt;&gt; ML
+### Trí tuệ Người và 
 
 * **Rule-based** \(bởi con người\) không nhất thiết kém hiệu quả hơn ML/AI. Có rất nhiều bài toán \(nhất là khi Data còn hạn chế\), rule-based sẽ hợp lý và hiệu quả hơn
 * **Rule-based** còn có ưu điểm là dễ hiểu, dễ thực hiện. Nhưng vì vậy, rule-based chỉ áp dụng được trong những trường hợp con người hiểu tốt vấn đề của họ.
