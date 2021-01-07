@@ -6,7 +6,6 @@
 
 * [Giới Thiệu: Big-O](big-o/gioi-thieu-big-o.md)
 * [Datatalk\#1 - Hello World](big-o/1-hello-world/README.md)
-  * [Untitled](big-o/1-hello-world/untitled.md)
   * [Thuật Toán](big-o/1-hello-world/ve-thuat-toan.md)
   * [Big Data](big-o/1-hello-world/ve-big-data.md)
   * [Mặt Trái của Big Data](big-o/1-hello-world/mat-trai-cua-big-data.md)

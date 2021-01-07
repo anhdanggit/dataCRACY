@@ -33,5 +33,7 @@ Truy cập: [https://databasic.io/en/wordcounter](https://databasic.io/en/samedi
 {% endtab %}
 {% endtabs %}
 
+### Âm 
+
 ### Chữ viết tay
 
