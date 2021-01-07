@@ -10,10 +10,12 @@
 
 Mục đích của Big-O là phổ cập thường thức về Data và Thuật Toán cho cộng đồng, không phân biệt trình độ. Chương trình được thiết kế dưới dạng các `Datatalk` để đem lại thông tin và thông điệp cho đa dạng đối tượng với đa dạng mục đích khác nhau: 
 
-1. Ý thức về Quyền và Tự Bảo Vệ Thông Tin Cá Nhân
+{% hint style="info" %}
+1. [Ý thức về Quyền và Tự Bảo Vệ Thông Tin Cá Nhân](1-hello-world/)
 2. Đọc-Hiểu Data
 3. Tư Duy với 
 4. Hướng nghiệp cho các bạn muốn tìm hiểu và xây dựng thế mạnh về Data.
+{% endhint %}
 
 ## Không phải để đào tạo về Data
 
