@@ -1,6 +1,6 @@
 # Giới Thiệu: Big-O
 
-![](../.gitbook/assets/facebook_banner.png)
+![](../.gitbook/assets/134943136_180691657129858_6899475165417277201_o.png)
 
 > **Big-O** là một ký hiệu toán học thường được dùng để mô tả hành vi của thuật toán khi dữ liệu tiến tới giới hạn vô cùng.
 
