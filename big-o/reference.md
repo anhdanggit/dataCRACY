@@ -1,4 +1,4 @@
-# Reference
+# Tham Khảo
 
 1. [Data Literacy: Data Visualization \(tladeras\)](https://tladeras.shinyapps.io/dataLiteracyTutorial/#section-learning-objectives)
 2. [Data Literacy Fundamental](https://dataliteracy.com/topic/an-overview-of-the-dikw-pyramid/)
