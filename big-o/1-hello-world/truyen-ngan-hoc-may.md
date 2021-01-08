@@ -8,21 +8,27 @@ description: >-
 
 ## Về Big Data
 
+{% hint style="info" %}
+Đoạn trích sau mô tả về mức độ chi tiết của data có thể thu thập từ người dùng thông qua các ứng dụng, tiện ích, dịch vụ.
+{% endhint %}
+
 > Chúng ta được định hình, định tính bằng những con số: Số bạn bè trên mạng xã hội, số likes, số tiền trong tài khoản, số lần cà thẻ, số lượt dịch chuyển trong thành phố. Mỗi tin nhắn của ta có bao nhiêu từ, ta kết thúc bằng dấu chấm hay ba chấm. Mỗi cuộc gọi bao nhiêu phút. Trong một ngày, ta cầm điện thoại lên bao nhiêu lần, mỗi lần bao nhiêu giây, vào buổi sáng hay chiều, trưa hay là tối. Mất bao lâu ta uống hết một chai sữa 1.5 lít, mất bao lâu ta lại phải đặt văn phòng phẩm. Ta đang ngắm nghía tìm kiếm, muốn mua cái áo nào, cái điện thoại nào, chai sữa rửa mặt nào. Bao nhiêu bước chân ban ngày, bao nhiêu calorie tiêu thụ mỗi bữa ăn, bao nhiêu lượt trở mình ban đêm. Cô bất giác liếc nhìn cái smartwatch trên tay, trên đó nhấp nháy hiện lên 8,725 bước cô đã đi trong ngày, 108 nhịp tim cô đập trong một phút, đêm qua cô ngủ không ngon giấc.
 
 ## Về Thuật Toán \(Deep Learning\)
 
+{% hint style="info" %}
+Đoạn trích sau mô phỏng lại các set up thật sự của kỹ thuật Neural Network \(cũng là thuật toán dùng trong Quick, Draw! ở [Phần 1 về Thuật Toán](thuat-toan.md).
+{% endhint %}
+
 > “Siêu bộ não của những cỗ máy đã ngốn mớ dữ liệu khổng lồ đó bằng một thuật toán, người ta gọi là _Mạng Lưới Thần Kinh Sâu_”.
 
-> Để mang vác mạng lưới thần kinh cồng kềnh đó, cần một siêu bộ não. Không một cỗ máy vật lý nào có thể chứa nỗi bộ não này. Người ta chia nhỏ khối lượng tính toán cho nhiều cỗ máy, chúng vận hành song song, bộ não này _thấy được_ bộ não kia nghĩ gì, chúng chia sẻ cùng một mạch “suy nghĩ” và khớp lại nhau thành một thể thống nhất.
-
 > Mạng Nơ-ron nhân tạo đó được xây dựng lên đến hàng ngàn nốt nơ-ron, nối chằn chịt với nhau, xếp lên nhau thành từng lớp từng lớp. Đường đi của sóng thông tin qua các lớp, tổng số tương tác giữa các nốt nơ-ron, có thể lên đến hàng triệu sự kết hợp. Chúng học rất sâu vào dữ liệu của ta, luồn lách đến từng chi tiết nhỏ nhất, bẻ gãy mỗi chúng ta thành từng mẩu đặc tính. \[...\]
-
-## Thuật Toán trên Big Data
 
 > Mạng siêu thần kinh phức tạp và chằng chịt. Như một con bạch tuột, nó tung những cái xúc tu dài thọc vào trong từng ngóc ngách, từng chi tiết nhỏ của lịch sử giao dịch, lịch sử cuộc gọi, những tương tác mạng xã hội. Nó chồng lên nhau những đường nét về từng con người, từng con người. Như những nét chì chồng lên nhau, đậm dần, đậm dần. Như những lớp màu chồng lên nhau: xanh, cam, đỏ, đến lớp thứ một trăm nó đặc quánh thành một màu xám, đen tối dần, đen tối dần. Siêu bộ não dần dần rút ra bài học của nó về sự phản trắc của con người.
 
 > Mạng thần kinh của siêu não bộ len lỏi vào sao kê ngân hàng của những doanh nhân. Những bữa ăn tối chục triệu, lượt cà thẻ cho những chai rượu đắt tiền. Những cỗ máy nhận ra: À, giao dịch kinh doanh không chỉ diễn ra trong phòng họp. Và những khoản chi này thật kỳ lạ, tại sao nhà đầu tư kia lại tự đầu tư vào một công ty con thuộc về chính mình, tại sao có quá nhiều những khoản thu chi cho tranh nghệ thuật, cho hòa nhạc từ thiện mà giá cả cao bất hợp lý so với bộ dữ liệu của nó về giá cả thị trường. Khi có đủ những ví dụ, khi ngốn được thông tin từ đủ mọi góc độ của con người, cỗ máy học được rằng con người còn hối lộ, tham nhũng, trốn thuế và rửa tiền.
+
+## Thuật Toán trên Big Data
 
 ## Sự Thao Túng "tinh vi" của Thuật Toán
 
