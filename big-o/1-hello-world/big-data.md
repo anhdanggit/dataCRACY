@@ -175,3 +175,14 @@ Khi một thuật toán có thể hiểu đứa con hơn cả cha mẹ của h�
 
 Các thuật toán tương tự như vậy: Để dự án ai đang có thai, ai đang cần hẹn hò, ai đang dòm ngó cái smartphone mới ra - Ngày nay chúng ở khắp nơi trên mạng xã hội, chầu trực quanh ta.
 
+## Re
+
+* Sở dĩ **Thuật Toán, AI/ML** trở nên quyền luật đến mức chi phối và thao túng cách chúng ta sống là bởi chúng trở nên vô cùng tinh vi nhờ lượng **Data khổng lồ** được dùng để "train" chúng.
+* **Data \(Dữ liệu\):** Các quan sát, thường dưới dạng sự kiện hoặc số liệu, được lưu trữ nhằm mục đích kiểm tra, tham khảo và phục vụ cho mục đích ra quyết định.
+  * **Chiều Dọc \(n\):** Số dòng \(hay số quan sát, số ví dụ, số users\)
+  * **Chiều Ngang \(p\):** Số tính chất \(features\) được ghi nhận‌
+  * Big Data là "hình chữ nhật" n x p đó được phóng dãn theo chiều dọc \(**Big "n": nhiều cá thể được quan sát hơn\)** hay theo chiều ngang **\(Big "p": nhiều tính chất được quan sát hơn\)**
+  * Chúng ta cũng thường nghe về "Kỹ thuật số", thời kỳ "Công nghệ số" \(Digital\). Nói cho đơn giản, kỹ thuật số giúp chúng ta chuyển đổi nhiều thứ \(hình ảnh, âm thanh, ký tự\) về dạng số và bảng số \(n x p như trong bảng Excel. Bảng sẽ thấy đây là một ý tưởng cốt lõi\)
+* Người dùng luôn tập trung vào cái lợi trước mặt của sự tiện lợi \(Internet cho tôi những quảng cáo đúng cái tôi đang cần\), cho số điện thoại để được tích điểm, share thông tin để sử dụng cái ứng dụng miễn phí. Chúng ta đều ít nhiều, một lần hay nhiều lần bị "mua" bởi cái giá rẻ mạt.
+* Chúng ta cần ý thức về: Tính Riêng Tư & Nhạy cảm của Data, và khả năng thao túng của Thuật Toán.
+
