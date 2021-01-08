@@ -155,9 +155,9 @@ Nhờ thông tin đó, thói quen mua sắm của khách hàng trở nên dễ n
 
 ### Tính Riêng Tư và Nhạy Cảm
 
-Trong những ngày đầu tiên giới thiệu online shopping, Tesco có một tính năng "My Favourites" đơn giản, đưa lên "top" những sản phẩm mà khách hàng thường mua \(và được ghi nhận bằng thẻ Clubcard\). Một người phụ nữ liên hệ với Tesco, phàn nàn rằng data có vẻ bị sai. Vì cô thấy "condom" trong mục "My Favourites" của cổ, dù cô và chồng hoàn toàn không dùng "condom". Nhân viên Tesco kiểm tra lại cơ sở dữ liệu của họ, thấy không hề sai. Nhưng không lẽ bóng gió rằng chồng cô nọ ngoại tình. Họ chọn cách giải quyết "thảo mai dĩ hoà vi quí" rằng data bị sai - chúng tôi vô cùng xin lỗi.
+Trong những ngày đầu tiên giới thiệu online shopping, Tesco có một tính năng "My Favourites" đơn giản, đưa lên "top" những sản phẩm mà khách hàng thường mua \(và được ghi nhận bằng thẻ Clubcard\). Một người phụ nữ liên hệ với Tesco, phàn nàn rằng data có vẻ bị sai. Vì cô thấy "condom" trong mục "My Favourites" của cổ, dù cô và chồng hoàn toàn không dùng "condom". Nhân viên Tesco kiểm tra lại cơ sở dữ liệu của họ, thấy không hề sai. Nhưng không lẽ bóng gió rằng chồng cô ngoại tình đó cô ơi. Họ chọn cách giải quyết "thảo mai & dĩ hoà vi quí" rằng data bị sai - chúng tôi vô cùng xin lỗi. 
 
-Lịch sử mua sắm và giao dịch không chỉ để kiểm kê bạn tiêu xài cái gì. Đó là dữ liệu riêng tư, và nhạy cảm. Dữ liệu đó có thể nói lên bạn là ai?
+Có những dữ liệu tưởng vô thưởng vô phạt mà lại đầy riêng tư và nhạy cảm. Lịch sử mua sắm và giao dịch không chỉ để kiểm kê bạn tiêu xài cái gì. Chúng có thể nói lên bạn là ai? Một cách không mong muốn.
 
 ### Hiểu bạn hơn cả chính bạn
 
