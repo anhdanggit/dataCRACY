@@ -20,7 +20,7 @@ Theo một định nghĩa rộng hơn \(và dễ hiểu hơn\), Thuật toán l�
 
 ### Thử viết Thuật Toán: Robot giao hàng
 
-![](../../.gitbook/assets/image%20%2819%29.png)
+![](../../.gitbook/assets/image%20%2823%29.png)
 
 {% tabs %}
 {% tab title="Hỏi" %}
@@ -45,7 +45,7 @@ Bạn đã điền qua [Trắc Nghiệm Data Persona](https://www.notion.so/Big-
   * Phân bạn vào một nhóm Persona \(Người Quan tâm, Người Đọc Hiểu, Người Suy Luận, hay Người Theo Đuổi\) ⇒ Đây là **Thuật Toán Phân Cụm** Đơn Giản \(`Clustering Algorithm`\)
   * Gợi ý các nội dung phù hợp với bạn ⇒ Đây là **Thuật Toán Gợi Ý** Đơn Giản \(`Recommendation Algorithms`\)
 
-![Nh&#x1EEF;ng g&#xEC; x&#x1EA3;y ra Ph&#xED;a sau Tr&#x1EAF;c Nghi&#x1EC7;m Data Persona](../../.gitbook/assets/image%20%283%29.png)
+![Nh&#x1EEF;ng g&#xEC; x&#x1EA3;y ra Ph&#xED;a sau Tr&#x1EAF;c Nghi&#x1EC7;m Data Persona](../../.gitbook/assets/image%20%2820%29.png)
 
 Khi đi sau vào setting của Trắc Nghiệm này, bạn sẽ thấy Giao Diện như trên:
 
@@ -65,11 +65,11 @@ Ví dụ, trong trắc nghiệm Data Persona, có điều kiện: Nếu người
 
 ## Đến... Trí Tuệ Nhân Tạo \(AI\)
 
-![](../../.gitbook/assets/image%20%2820%29.png)
+![](../../.gitbook/assets/image%20%2824%29.png)
 
 Trở lại với Robot giao hàng của chúng ta, và bài toán giống-giống mà khác:
 
-![](../../.gitbook/assets/image%20%286%29.png)
+![](../../.gitbook/assets/image%20%2821%29.png)
 
 {% tabs %}
 {% tab title="Hỏi" %}
@@ -114,7 +114,7 @@ Vậy cái Trí Tuệ Nhân Tạo làm cách nào mà nhìn được cái hình 
 
 À, vì Thuật toán đằng sau `Quick, Draw!` đã "học" **147,814 bức vẽ** Máy Rửa Chén từ đèm đẹp đến xấu banh của người dùng Internet. Đây là các "ví dụ" nó đã học.
 
-![](../../.gitbook/assets/image%20%2823%29.png)
+![](../../.gitbook/assets/image%20%2832%29.png)
 
 Mỗi khi so phải giải thích về **Machine Learning \(ML\)** thật dễ hiểu, tôi ưa lấy ví dụ bằng: Thay vì một chuỗi mệnh đề IF-ELSE cổ điển, ta dạy máy móc như một đứa trẻ. Việc cho máy tính xem 147,814 bức vẽ cái máy giặt làm tôi liên tưởng đến việc dạy cho những đứa trẻ nhận biết đồ vật, chữ cái, hình học bằng việc chỉ cho chúng xem những thẻ hình.
 
@@ -134,11 +134,11 @@ Máy thật sự cũng học như vậy.
 5. Sau khi train xong, ở khung **Preview** sẽ nhận diện hình ảnh của bạn \(`Input`\). Mình giơ thử sách Hai-mươi-bảy để xem Máy Tính có nhận ra không? ⇒ Mình đưa sách ở góc nghiêng \(hơi làm khó\) - Máy Tự tin Máy đúng: 84%
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%2821%29.png)
+![](../../.gitbook/assets/image%20%2826%29.png)
 
 Giống như "đứa trẻ" tiến bộ nhờ feedback của cha mẹ: "Đúng rồi! Hoan hô" - "Sai rồi. Lại nè". Thì Máy cũng vậy.
 
-![](../../.gitbook/assets/image%20%2824%29.png)
+![](../../.gitbook/assets/image%20%2833%29.png)
 
 {% hint style="success" %}
 Bấm vào **`Under the hood`** trong cột **Training**.

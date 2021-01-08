@@ -1,4 +1,4 @@
-# DataYourself: Your Spotify Data
+# DataYourself: Spotify & Data Privacy
 
 ### Spotify Data
 
