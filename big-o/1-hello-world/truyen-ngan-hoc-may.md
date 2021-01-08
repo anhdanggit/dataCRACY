@@ -24,7 +24,7 @@ description: >-
 
 > Mạng thần kinh của siêu não bộ len lỏi vào sao kê ngân hàng của những doanh nhân. Những bữa ăn tối chục triệu, lượt cà thẻ cho những chai rượu đắt tiền. Những cỗ máy nhận ra: À, giao dịch kinh doanh không chỉ diễn ra trong phòng họp. Và những khoản chi này thật kỳ lạ, tại sao nhà đầu tư kia lại tự đầu tư vào một công ty con thuộc về chính mình, tại sao có quá nhiều những khoản thu chi cho tranh nghệ thuật, cho hòa nhạc từ thiện mà giá cả cao bất hợp lý so với bộ dữ liệu của nó về giá cả thị trường. Khi có đủ những ví dụ, khi ngốn được thông tin từ đủ mọi góc độ của con người, cỗ máy học được rằng con người còn hối lộ, tham nhũng, trốn thuế và rửa tiền.
 
-## Và... Kết Quả
+## Sự Thao Túng "tinh vi" của Thuật Toán
 
 > Máy vịn vào đó để đưa ra những quyết định và kết luận. Nó đánh giá về đạo đức của mỗi người bằng một con số. Con người hoàn toàn tin vào con số đó, máy móc có siêu não bộ con người không thể có, chính vì vậy nó hẳn phải thông minh hơn. Máy ngốn thông tin của hàng triệu người, chính vì vậy nó phải hiểu về bản chất của con người, hơn chính con người.
 
