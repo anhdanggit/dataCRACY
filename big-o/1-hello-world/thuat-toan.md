@@ -266,11 +266,12 @@ Như một đứa trẻ, càng cho chúng xem nhiều ví dụ chúng càng thô
 ## Recap
 
 * **Thuật Toán:** Các tác vụ được lập trình theo bước \(để máy tính\) giải quyết một vấn đề/bài
+* Có 4 chủ đề của thuật toán: Ưu tiên, Phân loại, Tương quan, Lọc.
 * Thuật Toán có thể đơn giản \(Ruled-based\) hay phức tạp như AI/ML
 * **Machine Learning:** dạy "máy móc" như dạy một đứa =&gt; Học bằng ví dụ \(dữ liệu\)
-* Dùng data trong quá khứ \(`X`\) để tạo ra một thuật toán hay phương trình: `f( )` nhằm tự động trả kết quả `(y_pred)` cho một dữ liệu đầu vào mới `(X')`
-* Thuật toán trở nên quan trọng và chi phố loài người, nhờ lượng Big Data chúng được học
-* Thuật toán không nhất thiết luôn đúng đắn và giúp đỡ con người nhằm mục đích tốt
+  * Dùng data trong quá khứ \(`X`\) để tạo ra một thuật toán hay phương trình: `f( )` nhằm tự động trả kết quả `(y_pred)` cho một dữ liệu đầu vào mới `(X')`
+* Thuật toán trở nên quan trọng và chi phố loài người là nhờ lượng Big Data chúng được "học"
+* Thuật toán không nhất thiết luôn đúng đắn và phục vụ con người với mục đích tốt
 
 ## 
 
