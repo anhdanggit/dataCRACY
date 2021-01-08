@@ -106,7 +106,7 @@ Bạn có nhận ra: Bạn vừa tương tác với **Trí Tuệ Nhân Tạo**?
 
 > **Trí tuệ nhân tạo:** máy móc có khả năng mô phỏng, bắt chước các chất năng "nhận thức" của con người: Nghe, nhìn, đọc, giao tiếp, chơi cờ, sáng tác nghệ thuật, ra quyết định \(gợi ý nội dung, đánh giá rủi ro, dự đoán tương lai\)...
 
-## ML: Máy học thế nào?
+### ML: Máy học thế nào?
 
 > “Tôi nói đến đâu rồi nhỉ. À, Học Máy, nó cũng giống như cách con người học thôi. Người ta dạy máy móc y như cách con người được dạy dỗ”. \[...\] À, vậy thì hãy dạy máy như dạy một đứa trẻ. “Cô nghĩ một đứa trẻ học về thế giới như thế nào?”, hắn hỏi. \[…\] “Người ta cho chúng những ví dụ”, hắn tự đáp. Đây là một con chó, đây cũng là một con chó, đây là một con chó khác. Chỉ cho đứa trẻ một trăm lần, và gọi đó là con chó. Đứa trẻ rồi sẽ học được đó là chó. — _Đặng Huỳnh Mai Anh \(2020\). Truyện ngắn "Học Máy"_
 
@@ -122,7 +122,7 @@ Và, sau khi chúng trả lời, bảo chúng "Đúng rồi!" \(Hoan hô\) hoặ
 
 Máy thật sự cũng học như vậy.
 
-## Dạy mô hình ML của bạn
+### Dạy mô hình ML của bạn
 
 {% hint style="success" %}
 **Train mô hình Machine Learning của bạn**
