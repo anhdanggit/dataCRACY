@@ -175,7 +175,7 @@ Khi một thuật toán có thể hiểu đứa con hơn cả cha mẹ của h�
 
 Các thuật toán tương tự như vậy: Để dự án ai đang có thai, ai đang cần hẹn hò, ai đang dòm ngó cái smartphone mới ra - Ngày nay chúng ở khắp nơi trên mạng xã hội, chầu trực quanh ta.
 
-## Re
+## Recap
 
 * Sở dĩ **Thuật Toán, AI/ML** trở nên quyền luật đến mức chi phối và thao túng cách chúng ta sống là bởi chúng trở nên vô cùng tinh vi nhờ lượng **Data khổng lồ** được dùng để "train" chúng.
 * **Data \(Dữ liệu\):** Các quan sát, thường dưới dạng sự kiện hoặc số liệu, được lưu trữ nhằm mục đích kiểm tra, tham khảo và phục vụ cho mục đích ra quyết định.
