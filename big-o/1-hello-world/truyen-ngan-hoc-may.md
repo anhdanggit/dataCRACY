@@ -28,7 +28,13 @@ description: >-
 
 > Mạng thần kinh của siêu não bộ len lỏi vào sao kê ngân hàng của những doanh nhân. Những bữa ăn tối chục triệu, lượt cà thẻ cho những chai rượu đắt tiền. Những cỗ máy nhận ra: À, giao dịch kinh doanh không chỉ diễn ra trong phòng họp. Và những khoản chi này thật kỳ lạ, tại sao nhà đầu tư kia lại tự đầu tư vào một công ty con thuộc về chính mình, tại sao có quá nhiều những khoản thu chi cho tranh nghệ thuật, cho hòa nhạc từ thiện mà giá cả cao bất hợp lý so với bộ dữ liệu của nó về giá cả thị trường. Khi có đủ những ví dụ, khi ngốn được thông tin từ đủ mọi góc độ của con người, cỗ máy học được rằng con người còn hối lộ, tham nhũng, trốn thuế và rửa tiền.
 
-## Thuật Toán trên Big Data
+Trong thực tế, "Mạng lưới thần kinh" trong sẽ như sau \([Tensorflow Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.92498&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)\):
+
+* Từ hai "feature" ban đầu: `X1` và `X2`
+* Có nhiều nốt và lớp, mà qua đó `X1` và `X2` được kết hợp theo nhiều cách thức, để output của mỗi nốt ở lớp trước sẽ là input cho các nốt ở lớp sau. Kết hợp lại cho ra Output cuối cùng ⇒ Nhờ đó mà học được các quy luật "tinh vi" trong data
+* Sở dĩ có tên là **"Mạng lưới thần kinh"**, vì đường đi của các nốt và các lớp chằng chịt như mạng lưới thần kinh.
+
+![](../../.gitbook/assets/image%20%2834%29.png)
 
 ## Sự Thao Túng "tinh vi" của Thuật Toán
 
