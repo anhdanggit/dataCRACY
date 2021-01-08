@@ -2,7 +2,7 @@
 description: 'Tên dự án DATACracy được lấy cảm hứng từ: Data và Democracy.'
 ---
 
-# Introduction
+# Dự án DATACRACY
 
 ![](.gitbook/assets/facebook_banner.png)
 
