@@ -96,9 +96,6 @@ Tương tự cũng có những kỹ thuật để biết sống âm thành Số,
 
 ### Text
 
-* [https://databasic.io/en/samedif](https://databasic.io/en/samediff/)f
-* Từ kết quả của word counts, mỗi bài hát ta đếm được Top 10 từ, và cụm ký tự \(Bigrams, Trigrams\). Một cách đơn giản và "ngây thơ" để đo xem 2 lời bài hát có giống nhau trong số lần lặp lại của các từ và số ký tự. Nói cách khác, phương pháp trong WordCount đã tạo ra input cho Thuật Toán này \(So Sánh\)
-
 {% tabs %}
 {% tab title="Hoạt Động \#1" %}
 Truy cập: [https://databasic.io/en/wordcounter](https://databasic.io/en/wordcounter)
@@ -135,7 +132,9 @@ Truy cập: [https://databasic.io/en/samediff](https://databasic.io/en/samediff)
 
 ![](../../.gitbook/assets/image%20%286%29.png)
 
+{% hint style="info" %}
 Các kỹ thuật số hoá là ý tưởng nền tảng cho Thời Đại Số, cho việc thêm nhiều "features" \(Big "p"\) tạo nên Big Data. Từ đó, tạo nên những Thuật Toán khủng phác hoạ, mô phỏng hành vi con người.
+{% endhint %}
 
 ## Data tiết lộ  về chúng ta
 
@@ -169,8 +168,7 @@ Khi thuật toán đó đi vào sử dụng, một ông bố có cô con gái tu
 
 Vài tháng sau, trên New York Times, người bố phải xin lỗi vì con gái ông thật sự có thai.
 
-Đáng sợ phải không bạn?
-
+Đáng sợ phải không bạn?  
 Khi một thuật toán có thể hiểu đứa con hơn cả cha mẹ của họ.
 
 Các thuật toán tương tự như vậy: Để dự án ai đang có thai, ai đang cần hẹn hò, ai đang dòm ngó cái smartphone mới ra - Ngày nay chúng ở khắp nơi trên mạng xã hội, chầu trực quanh ta.
@@ -185,11 +183,13 @@ Khả năng thao túng đó lại càng kinh khủng hơn với lượng data nh
 
 ## Bảo vệ Dữ Liệu Cá Nhân
 
-Có 03 điều tạo nên sự đáng sợ của Data & Thuật toán:
+{% hint style="danger" %}
+**Có 03 điều tạo nên sự đáng sợ của Data & Thuật toán:**
 
 1. Lượng thông tin khổng lồ mà từ đó nhiều thuật toán được xây dựng để hiểu về bạn, tiên đoán về bạn, gợi ý cho bạn, và thao túng bạn.
 2. ID chung \(Advertising ID\) trên tất cả các apps và webs để xâu chuỗi lại toàn bộ bức tranh về một người dùng
-3. Không có luật và quyền về giới hạn của việc khai thác và kết hợp/trao đổi/buôn bán data để
+3. Không có luật và quyền về giới hạn của việc khai thác và kết hợp/trao đổi/buôn bán data 
+{% endhint %}
 
 Trong phần này chúng tôi dẫn chứng nhiều luật Bảo Vệ Thông Tin của EU \(GDPR\), nhưng luật thông tin của nhiều nước trên thế giới bao gồm Việt Nam cũng đi theo các điểm tương tự. Chúng tôi chọn đề cập đến GDPR làm góc vì nhiều ứng dụng và websites hiện nay được thiết kế theo chuẩn này.
 
