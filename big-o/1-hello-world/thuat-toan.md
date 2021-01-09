@@ -69,6 +69,22 @@ Ví dụ, trong trắc nghiệm Data Persona, có điều kiện: Nếu người
 
 Trở lại với Robot giao hàng của chúng ta, và bài toán giống-giống mà khác:
 
+{% hint style="success" %}
+Hãy viết "thuật toán" mới để Robot giao đến Nhà màu Hồng?
+{% endhint %}
+
+Bạn có thấy phiền không? Và nếu chúng ta có một vạn ngôi nhà màu hồng ở các địa hình khác nhau? Chúng ta phải viết một vạn thuật toán Trái-Phải-Lên-Xuống như vậy?
+
+> Nếu chúng ta có thể đơn giản chỉ cần nói: Robot giao đến nhà màu hồng? Và, nó tự tìm con đường của riêng nó?
+
+Đặt vấn đề như vậy, chúng ta đã chuyển từ các Thuật Toán đơn giản lên **Trí Tuệ Nhân Tạo**.
+
+{% hint style="success" %}
+**Hoạt Động \#1**   
+1. Vẽ vời một chút: [Quick, Draw!](https://quickdraw.withgoogle.com/)   
+2. Thử thách nhép miệng chuẩn theo bài: [Lipsync Scoring](https://experiments.withgoogle.com/lipsync)
+{% endhint %}
+
 ![](../../.gitbook/assets/image%20%2821%29.png)
 
 {% tabs %}
@@ -86,21 +102,6 @@ Trở lại với Robot giao hàng của chúng ta, và bài toán giống-giố
 * **Output:** Đoán đồ vật được vẽ, cho điểm "khẩu hình" khớp lời
 {% endtab %}
 {% endtabs %}
-
-* **Hãy viết "thuật toán" mới để Robot giao đến Nhà màu Hồng?**
-
-Bạn có thấy phiền không? Và nếu chúng ta có một vạn ngôi nhà màu hồng ở các địa hình khác nhau? Chúng ta phải viết một vạn thuật toán Trái-Phải-Lên-Xuống như vậy?
-
-> Nếu chúng ta có thể đơn giản chỉ cần nói: Robot giao đến nhà màu hồng? Và, nó tự tìm con đường của riêng nó?
-
-Đặt vấn đề như vậy, chúng ta đã chuyển từ các Thuật Toán đơn giản lên **Trí Tuệ Nhân Tạo**.
-
-{% hint style="success" %}
-**Hoạt Động \#1**
-
-1. Vẽ vời một chút: [Quick, Draw!](https://quickdraw.withgoogle.com/)
-2. Thử thách nhép miệng chuẩn theo bài: [Lipsync Scoring](https://experiments.withgoogle.com/lipsync)
-{% endhint %}
 
 Bạn có nhận ra: Bạn vừa tương tác với **Trí Tuệ Nhân Tạo**?
 
