@@ -174,9 +174,9 @@ Với các chủ đề bên dưới, bạn sẽ thiết kế một thuật toán
 <table>
   <thead>
     <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left">M&#xF4;</th>
-      <th style="text-align:left">&#x1EE8;ng d</th>
+      <th style="text-align:left">Nh&#xF3;m</th>
+      <th style="text-align:left">M&#xF4; t&#x1EA3;</th>
+      <th style="text-align:left">&#x1EE8;ng d&#x1EE5;ng</th>
     </tr>
   </thead>
   <tbody>
