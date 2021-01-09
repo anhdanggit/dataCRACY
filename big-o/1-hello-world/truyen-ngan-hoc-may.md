@@ -38,6 +38,10 @@ Trong thực tế, "Mạng lưới thần kinh" trong sẽ như sau \([Tensorflo
 
 ## Sự Thao Túng "tinh vi" của Thuật Toán
 
+{% hint style="info" %}
+Đoạn trích mượn chất liệu từ **Hệ thống tính điểm tín nhiệm xã hội của Trung Quốc** \(mà trước đó là hệ thống tính điểm cho vay tín nhiệm của hệ thống tài chính\), và thuật toán của **Cambridge Analytica** dùng các data hành vi Internet để xếp người dùng vào các nhóm tính cách \(Persona\) khác nhau.
+{% endhint %}
+
 > Máy vịn vào đó để đưa ra những quyết định và kết luận. Nó đánh giá về đạo đức của mỗi người bằng một con số. Con người hoàn toàn tin vào con số đó, máy móc có siêu não bộ con người không thể có, chính vì vậy nó hẳn phải thông minh hơn. Máy ngốn thông tin của hàng triệu người, chính vì vậy nó phải hiểu về bản chất của con người, hơn chính con người.
 
 > “Ting” - Điện thoại cô rung lên. _“Quán có giúp bạn thoải mái như Thứ Năm tuần trước. Hãy đánh giá mức độ hài lòng, từ 1 đến 5 sao!”_, ứng dụng thanh toán online nhảy tin nhắn lên điện thoại cô. Cô không hề check-in. Cô không thích. Dù vậy, ban nãy cô vừa trả bằng thẻ, hệ thống thanh toán lập tức nhận ra cô đang ở đâu.
