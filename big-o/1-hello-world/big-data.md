@@ -180,7 +180,7 @@ Các thuật toán tương tự như vậy: Để dự án ai đang có thai, ai
 Khả năng thao túng đó lại càng kinh khủng hơn với lượng data nhận được. Một số  đề:   
 1. Hệ thống điểm xã hội \(Trung Quốc\)   
 2. Cambrige Analytica: Dùng dữ liệu likes & dislikes để dự đoán các tuýp tính cách, dùng đó để "target" và thay đổi quan điểm của cử tri, từ đó thay đổi kết quả bầu cử.   
-Đọc thêm: [Học-](truyen-ngan-hoc-may.md)
+Đọc thêm: [Học Máy](truyen-ngan-hoc-may.md)
 {% endhint %}
 
 ## 
