@@ -183,8 +183,6 @@ Khả năng thao túng đó lại càng kinh khủng hơn với lượng data nh
 Đọc thêm: [Học Máy](truyen-ngan-hoc-may.md)
 {% endhint %}
 
-## 
-
 ## Bảo vệ Dữ Liệu Cá Nhân
 
 Có 03 điều tạo nên sự đáng sợ của Data & Thuật toán:
