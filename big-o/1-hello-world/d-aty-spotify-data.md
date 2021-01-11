@@ -6,7 +6,7 @@
 1. Hiểu một chút về thuật toán Recommend bài hát của Spotify \("train" từ Data của bạn\)
 2. Tương tác với Spotify Data của chính bạn
 3. So sánh data âm nhạc của bạn với những người khác
-4. Kiểm tra tính chính thống của một bên thứ ba mà bạn cho phép truy cập Data
+4. Kiểm tra tính chính danh của một bên thứ ba mà bạn cho phép truy cập Data
 5. Kiểm tra private setting: Những bên đang connect với data của bạn + "Request" data Spotify thu thập từ bạn
 {% endhint %}
 
