@@ -1,6 +1,16 @@
 # DataYourself: Spotify & Data Privacy
 
-### Spotify Data
+{% hint style="success" %}
+**Phần DataYourself này sẽ giúp bạn:**
+
+1. Hiểu một chút về thuật toán Recommend bài hát của Spotify \("train" từ Data của bạn\)
+2. Tương tác với Spotify Data của chính bạn
+3. So sánh data âm nhạc của bạn với những người khác
+4. Kiểm tra tính chính thống của một bên thứ ba mà bạn cho phép truy cập Data
+5. Kiểm tra private setting: Những bên đang connect với data của bạn + "Request" data Spotify thu thập từ bạn
+{% endhint %}
+
+## Spotify Data
 
 Trong hoạt động DataYourself của phần này, bạn sẽ tìm hiểu và tương tác với data của chính mình từ Spotify. 
 
@@ -14,13 +24,13 @@ Tính năng này là một ứng dụng của **Machine Learning - Recommendatio
 
 Thuật toán này được xây dựng dựa trên data của hàng triệu người dùng Spotify. Mỗi tương tác bấm vào các bài hát, nghe bài hát, dừng ở giây nào, add vào playlist, follow các artists hay playlists, tìm kiếm các keywords tạo nên một lượng data khổng lồ về hành vi, khẩu vị âm nhạc của mỗi cá nhân. Và, sự trùng lặp giữa các cá nhân.
 
-Spotify biết bạn đã thích điều và những người tương tự như bạn sẽ thích điều gì, rồi gợi ý những lựa chọn “phù hợp” cho bạn. Chữ “phù hợp” được để trong ngoặc kép, vì một thuật toán gợi ý tốt không thể lúc nào cũng chỉ recommend những bài hợp gout bạn, đôi khi một chút “bất ngờ” lại khiến người dùng thích thú. Quan trọng hơn, thuật toán cần gợi ý thế nào để tối ưu được lợi nhuận cho doanh nghiệp.
+Spotify biết bạn đã thích điều gì và những người tương tự như bạn sẽ thích điều gì, rồi gợi ý những lựa chọn **“phù hợp”** cho bạn. Chữ “phù hợp” được để trong ngoặc kép, vì một thuật toán gợi ý tốt không thể lúc nào cũng chỉ recommend những bài hợp gout bạn, đôi khi một chút “bất ngờ” lại khiến người dùng thích thú. Quan trọng hơn, thuật toán cần gợi ý thế nào để tối ưu được lợi nhuận cho doanh nghiệp.
 
 Thuật toán gợi ý đem lại nhiều lợi ích cho người dùng, giúp cá nhân hoá và hoàn thiện hơn trải nghiệm. Nhưng, “gợi ý” đôi khi và rất có thể là một bước trong việc thao túng \(manipulate\) quyết định của người dùng. Liệu sống trong một thời đại nhan nhản những “gợi ý” nên xem bộ phim nào, nghe bài nhạc nào, kết đôi với ai, mua món hàng gì, có làm loài người chúng ta mất đi khả năng tự tìm kiếm những lựa chọn và tự đưa ra quyết định mà không cần gợi ý? Xin dành câu hỏi mở này để bạn suy nghĩ và tìm đọc thêm về mặt trái của các thuật toán.
 
 Trong session này, hãy cùng xem Spotify có những data của bạn và tương tác với data của chính bạn.
 
-### Organize Your Music
+## Organize Your Music
 
 {% tabs %}
 {% tab title="Hoạt Động \#1" %}
@@ -32,7 +42,7 @@ Truy cập vào [http://organizeyourmusic.playlistmachinery.com/](http://organiz
 {% endtab %}
 {% endtabs %}
 
-### Gout Nhạc của bạn “Dị” đến đâu?
+## Gout Nhạc của bạn “Dị” đến đâu?
 
 {% tabs %}
 {% tab title="Hoạt Động \#2" %}
@@ -41,7 +51,7 @@ Truy cập vào [Obscurify Music](https://obscurifymusic.com/home)
 * [ ] Truy cập vào [Obscurify Music](https://obscurifymusic.com/home)
 * [ ] Login qua portal của Spotify
 * [ ] Check Top `Genres` + `Obscurity`  
-* [ ] Check tab `About` của [www.obscurifymusic.](www.obscurifymusic.com)
+* [ ] Check tab `About` của [www.obscurifymusic.com](www.obscurifymusic.com)
 {% endtab %}
 
 {% tab title="Khái niệm" %}
@@ -56,8 +66,8 @@ Truy cập vào [Obscurify Music](https://obscurifymusic.com/home)
   * **Ý nghĩa:** 80% tổng số VN users có Obscurity Score &lt; Số Obscurity Score của bạn. 
 {% endtab %}
 
-{% tab title="Behind the Scene" %}
-#### Behind the : Check 
+{% tab title="Behind-the-Scene" %}
+**Behind-the-Scence: Check tab `About`**
 
 * Data của bạn được lấy về như thế nào?  \(Spotify’s Web API: Lịch sử nghe, top genres, đặc tính của các bài hát: energetic, danceable, happy, etc.\)
 * Thông tin của bạn có được bảo mật không?
@@ -69,7 +79,7 @@ Truy cập vào [Obscurify Music](https://obscurifymusic.com/home)
 {% endtab %}
 
 {% tab title="Bảo vệ Data Cá nhân" %}
-#### Data Privacy: 
+#### Data Privacy
 
 * [ ] Trên góc phải, mục `Menu`, Click `Remove Obscurify Account`: Bạn sẽ được dẫn tới website chính thức của Spotify. Tại đây Spotify sẽ list tất cả những website/apps đang có access vào data Spotify của bạn
 * [ ] Trong trang `Spotify Accounts`, bạn có thể chọn mục `Privacy Settings` 
@@ -86,7 +96,7 @@ Spotify đang connect với những thông tin cá nhân nào khác của bạn 
 
 Ở một số quốc gia, theo quyền bảo mật Data riêng tư, bạn có quyền đòi hỏi bất kỳ doanh nghiệp nào trả cho bạn bảng copy toàn bộ data họ có từ bạn. Đây cũng là cách để biết họ đang track những data nào của bạn. 
 
-Bạn có thể “request” và Spotify trả data cá nhân của bạn trong vòng 30 ngày từ ngày \(Facebook, Instagram, tương tự của có các chính sách này\)   
+Bạn có thể “request” và Spotify trả data cá nhân của bạn trong vòng **30 ngày** t\(Facebook, Instagram, tương tự của có các chính sách này\)   
 =&gt; Hãy thử để xem các Apps có thật sự thực thi chính sách data không? Nhiều khi họ chỉ để cho có “hình thức” theo quy định của pháp luật và nghĩ rằng sẽ không có mấy users thật sự quan tâm đến bảo mật và quyền data. Mình đã thử request từ ngày 5 tháng 10 và đến ngày 11 tháng 12 \(hơn 60 ngày sau đó\) vẫn thấy Spotify im hơi lặng tiếng \(Spam checked!\). Nếu bạn như mình đòi hoài không thấy trả data, và bạn đủ rảnh, bạn hoàn toàn có thể khởi kiện Spotify. 
 
 Trên thế giới, có nhiều social activists và tổ chức độc lập được thành lập nhằm mục đích “điều tra” các trường hợp tương tự. Cho nên chúng ta có thể cùng nhau điều tra, bạn có thể thử `Download Your Data` và nếu bạn được trả data hãy báo cho chúng .
