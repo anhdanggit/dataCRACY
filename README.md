@@ -17,7 +17,7 @@ Democratization - Trao quyền cho mọi người, chính là giúp tất cả m
 
 1. Democratize \(phổ cập\) thường thức về **Data cho mọi đối tượng:** Đem những hiểu biết và kỹ năng về Data đến cho bất kỳ ai muốn ứng dụng. Tiếp thu theo trình độ và nhu cầu của mỗi cá nhân.
 2. Democratize kỹ năng và mở ra định hướng **nghề nghiệp về Data** cho lực lượng lao động trẻ.
-3. Và cuối cùng, democratize những giải **pháp về Data cho doanh nghiệp vừa và nhỏ**.
+3. Và cuối cùng, democratize những giải pháp về **Data cho doanh nghiệp vừa và nhỏ**.
 
  
 {% endhint %}
