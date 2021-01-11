@@ -6,11 +6,13 @@ description: Vì sao Big Data trở thành "màu sắc" của thời đại?
 
 Trước khi đến với Big Data, thế nào là Data?
 
-Như ở phần trước về Thuật Toán, sở dĩ Thuật Toán, AI/ML trở nên quyền luật đến mức chi phối và thao túng cách chúng ta sống là bởi chúng trở nên vô cùng tinh vi nhờ lượng Data khổng lồ được dùng để "train" chúng.
+Như ở phần trước về Thuật Toán, sở dĩ Thuật Toán, AI/ML trở nên quyền lực đến mức chi phối và thao túng cách chúng ta sống là bởi chúng trở nên vô cùng tinh vi nhờ lượng Data khổng lồ được dùng để "train" chúng.
 
-Lượng Data không lồ đó từ đâu ra?
+Lượng Data khủng đó từ đâu ra?
 
 > Internet-of-Things \(IoT\) → Big Data → Thuật toán, AI/ML
+
+Mỗi chúng ta là một phần tạo lên nó.
 
 ## Data trông như thế nào?
 
