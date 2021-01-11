@@ -267,12 +267,16 @@ So sánh với GDPR, ta thấy có nhiều nét tương đồng.
 4. Người dùng được phép đòi quyền xoá, đòi cung cấp các nội dung data đang lưu giữ
 {% endhint %}
 
-![](../../.gitbook/assets/image%20%2835%29.png)
+![Source: Law Infographic](../../.gitbook/assets/image%20%2835%29.png)
 
-Các điều khoản của GDPR có thể tóm gọn lại, rằng mỗi doanh nghiệp lưu trữ thông tin khách hàng phải trả lời được các câu hỏi sau:  
-
+Các điều khoản của GDPR có thể tóm gọn lại, rằng mỗi doanh nghiệp lưu trữ thông tin khách hàng phải trả lời được các câu hỏi sau:
 
 ![](../../.gitbook/assets/image%20%2836%29.png)
+
+  
+
+
+![Source: Law Infographic](../../.gitbook/assets/image%20%2841%29.png)
 
 ## Recap
 
