@@ -17,7 +17,7 @@ description: >-
 ## Về Thuật Toán \(Deep Learning\)
 
 {% hint style="info" %}
-Đoạn trích sau mô phỏng lại các set up thật sự của kỹ thuật Neural Network \(cũng là thuật toán dùng trong Quick, Draw! ở [Phần 1 về Thuật Toán](thuat-toan.md).
+Đoạn trích sau mô phỏng lại các set up thật sự của kỹ thuật **Neural Network** \(cũng là thuật toán dùng trong Quick, Draw! ở [Phần 1 về Thuật Toán](thuat-toan.md).
 {% endhint %}
 
 > “Siêu bộ não của những cỗ máy đã ngốn mớ dữ liệu khổng lồ đó bằng một thuật toán, người ta gọi là _Mạng Lưới Thần Kinh Sâu_”.
@@ -39,7 +39,7 @@ Trong thực tế, "Mạng lưới thần kinh" trong sẽ như sau \([Tensorflo
 ## Sự Thao Túng "tinh vi" của Thuật Toán
 
 {% hint style="info" %}
-Đoạn trích mượn chất liệu từ **Hệ thống tính điểm tín nhiệm xã hội của Trung Quốc** \(mà trước đó là hệ thống tính điểm cho vay tín nhiệm của hệ thống tài chính\), và thuật toán của **Cambridge Analytica** dùng các data hành vi Internet để xếp người dùng vào các nhóm tính cách \(Persona\) khác nhau.
+Đoạn trích mượn chất liệu từ **Hệ thống tính điểm tín nhiệm xã hội của Trung Quốc** \(trước đó là hệ thống tính điểm cho vay tín nhiệm\), và thuật toán của **Cambridge Analytica** dùng các data hành vi Internet để xếp người dùng vào các nhóm tính cách \(Persona\) khác nhau.
 {% endhint %}
 
 > Máy vịn vào đó để đưa ra những quyết định và kết luận. Nó đánh giá về đạo đức của mỗi người bằng một con số. Con người hoàn toàn tin vào con số đó, máy móc có siêu não bộ con người không thể có, chính vì vậy nó hẳn phải thông minh hơn. Máy ngốn thông tin của hàng triệu người, chính vì vậy nó phải hiểu về bản chất của con người, hơn chính con người.
