@@ -256,15 +256,17 @@ Thế thật nghĩ là Máy Móc cũng có những hạn chế của chúng, l�
 
 > Nhưng chúng ta, con người chúng ta, càng ngày lại càng dựa dẫm và có niềm tin mù quáng vào máy móc. Ta luôn nghĩ những gì Máy Móc và Thuật Toán gợi ý luôn thông minh, ưu việt và ít sai sót hơn của con người.
 
-Search Engines \(như Google\) có khả năng thao túng cách chúng ta nhìn nhận thế giới. Có câu nói đùa rằng: `Chỗ kín đáo nhất trên thế giới, là trang thứ 2 của kết quả tìm kiếm Google`. Bao nhiêu trong chúng ta sẽ lao vào kết quả đầu tiên của Google, và dừng lại ở 10 kết quả đầu tiên.
+Search Engines \(như Google\) có khả năng thao túng cách chúng ta nhìn nhận thế giới. Có câu nói đùa rằng: `Chỗ kín đáo nhất trên thế giới, là trang thứ 2 của kết quả tìm kiếm Google`. Bao nhiêu trong chúng ta sẽ lao vào kết quả đầu tiên của Google, và dừng lại ở 10 kết quả .
 
-> Thuật toán, ML, AI cho con người chúng ta những sự tiện lợi. Thật dễ dàng để sai bảo chúng, kể cả sai bảo chúng chịu trách nhiệm ra quyết định, lựa chọn dùm chúng ta, và con người chẳng cần suy nghĩ nữa.
+> Thuật toán, ML, AI cho con người chúng ta những sự tiện lợi. Thật dễ dàng để sai bảo chúng, kể cả sai bảo chúng chịu trách nhiệm cho việc ra quyết định, lựa chọn dùm chúng ta, rồi con người chẳng cần suy nghĩ nữa.
 
-Mong rằng hiểu thêm một chút về Thuật Toán để tất cả chúng ta đều nhận ra máy móc cũng có những hạn chế và con người cũng có những hạn chế. Và, nếu được, thỉnh thoảng hãy "hoài nghi" lại các kết quả máy móc đưa cho bạn: Đi ra ngoài list nhạc được Spotify suggest, dừng lại và dùng suy luận con người xem con đường Google Maps gợi ý có phải là ngắn nhất, và các sản phẩm hiện ra đầu tiên khi bạn tìm kiếm trên Google đã là tốt nhất và rẻ nhất cho bạn chưa?
+Mong rằng hiểu thêm một chút về Thuật Toán để tất cả chúng ta đều nhận ra máy móc cũng có những hạn chế và con người cũng có những hạn chế. Và, nếu được, thỉnh thoảng hãy "hoài nghi" một chút các kết quả máy móc đưa cho bạn: Đi ra ngoài list nhạc được Spotify suggest, dừng lại và dùng suy luận con người xem con đường Google Maps gợi ý có phải là ngắn nhất, và các sản phẩm hiện ra đầu tiên khi bạn tìm kiếm trên Google đã là tốt nhất và rẻ nhất cho bạn chưa?
 
 Máy móc có thể hỗ trợ, nhưng không thể hoàn toàn thay thế cách chúng ta lựa chọn trong cuộc sống.
 
 Như một đứa trẻ, càng cho chúng xem nhiều ví dụ chúng càng thông minh. Thuật toán, ML/AI trở quyền lực như vậy, nhờ: **Big Data**. Lượng thông tin cá nhân, hành vi, digital footprint hàng tỷ người để lại trên mạng Xã hội, giúp chúng hiểu chúng ta hơn cả chúng ta hiểu chính mình. Khiến công nghệ đứng trước những câu hỏi nền tảng về xã hội và loài người.
+
+Mời bạn đọc tiếp phần sau: [Big Data](big-data.md).
 
 ## Recap
 
@@ -273,7 +275,7 @@ Như một đứa trẻ, càng cho chúng xem nhiều ví dụ chúng càng thô
 * Thuật Toán có thể đơn giản \(Ruled-based\) hay phức tạp như AI/ML
 * **Machine Learning:** dạy "máy móc" như dạy một đứa =&gt; Học bằng ví dụ \(dữ liệu\)
   * Dùng data trong quá khứ \(`X`\) để tạo ra một thuật toán hay phương trình: `f( )` nhằm tự động trả kết quả `(y_pred)` cho một dữ liệu đầu vào mới `(X')`
-* Thuật toán trở nên quan trọng và chi phố loài người là nhờ lượng Big Data chúng được "học"
+* Thuật toán trở nên quan trọng và chi phối loài người là nhờ lượng Big Data chúng được "học"
 * Thuật toán không nhất thiết luôn đúng đắn và phục vụ con người với mục đích tốt
 
 ## 
