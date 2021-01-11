@@ -252,25 +252,36 @@ Việt Nam: **Khoản 1 Điều 21, Luật CNTT** \(Công Nghê Thông Tin\):
 2. Sử dụng đúng mục đích TTCN thu thập được
 3. Chỉ lưu trữ những thông tin đó trong một khoảng thời gian nhất định theo quy định của pháp luật hoặc theo thoả thuận giữa hai bên
 4. Tiến hành các biện pháp quản lý, kỹ thuật cần thiết để bảo đảm TTCN không bị mất, đánh cắp, tiết lộ, thay đổi hoặc phá huỷ
-5. Tiến hành ngay các biện pháp cần thiết khi nhận được yêu cầu kiểm tra lại, đính chính hoặc hủy bỏ theo quy định tại khoản 1 Điều 22 của Luật này; không được cung cấp hoặc sử dụng TTCN liên quan cho đến khi thông tin đó được đính chính lại”
+5. Tiến hành ngay các biện pháp cần thiết khi nhận được yêu cầu kiểm tra lại, đính chính hoặc hủy bỏ theo quy định tại khoản 1 Điều 22 của Luật này; không được cung cấp hoặc sử dụng TTCN liên quan cho đến khi thông tin đó được đính chính lại
 
-### GDPR Infor
+So sánh với GDPR, ta thấy có nhiều nét tương đồng.
+
+### GDPR Inforgraphics
+
+{% hint style="info" %}
+**Nhìn chung luật bảo vệ được thiết kế nhằm:**
+
+1. Minh bạch mục đích lưu giữ và xử lý data
+2. Phải có sự đồng ý của người dùng nếu chia sẻ thông tin cho bên thứ ba
+3. Hạn chế lượng data lưu trữ quá "healthy dose": Thời gian và nội dung phải liên quan hợp lý
+4. Người dùng được phép đòi quyền xoá, đòi cung cấp các nội dung data đang lưu giữ
+{% endhint %}
+
+![](../../.gitbook/assets/image%20%2835%29.png)
 
 Các điều khoản của GDPR có thể tóm gọn lại, rằng mỗi doanh nghiệp lưu trữ thông tin khách hàng phải trả lời được các câu hỏi sau:  
 
 
 ![](../../.gitbook/assets/image%20%2836%29.png)
 
-![](../../.gitbook/assets/image%20%2835%29.png)
-
 ## Recap
 
-* Sở dĩ **Thuật Toán, AI/ML** trở nên quyền luật đến mức chi phối và thao túng cách chúng ta sống là bởi chúng trở nên vô cùng tinh vi nhờ lượng **Data khổng lồ** được dùng để "train" chúng.
+* Sở dĩ **Thuật Toán, AI/ML** trở nên quyền lực đến mức chi phối và thao túng cách chúng ta sống là bởi chúng trở nên vô cùng tinh vi nhờ lượng **Data khổng lồ** được dùng để "train" chúng.
 * **Data \(Dữ liệu\):** Các quan sát, thường dưới dạng sự kiện hoặc số liệu, được lưu trữ nhằm mục đích kiểm tra, tham khảo và phục vụ cho mục đích ra quyết định.
   * **Chiều Dọc \(n\):** Số dòng \(hay số quan sát, số ví dụ, số users\)
   * **Chiều Ngang \(p\):** Số tính chất \(features\) được ghi nhận‌
   * Big Data là "hình chữ nhật" n x p đó được phóng dãn theo chiều dọc \(**Big "n": nhiều cá thể được quan sát hơn\)** hay theo chiều ngang **\(Big "p": nhiều tính chất được quan sát hơn\)**
-  * Chúng ta cũng thường nghe về "Kỹ thuật số", thời kỳ "Công nghệ số" \(Digital\). Nói cho đơn giản, kỹ thuật số giúp chúng ta chuyển đổi nhiều thứ \(hình ảnh, âm thanh, ký tự\) về dạng số và bảng số \(n x p như trong bảng Excel. Bảng sẽ thấy đây là một ý tưởng cốt lõi\)
-* Người dùng luôn tập trung vào cái lợi trước mặt của sự tiện lợi \(Internet cho tôi những quảng cáo đúng cái tôi đang cần\), cho số điện thoại để được tích điểm, share thông tin để sử dụng cái ứng dụng miễn phí. Chúng ta đều ít nhiều, một lần hay nhiều lần bị "mua" bởi cái giá rẻ mạt.
+  * Chúng ta cũng thường nghe về "Kỹ thuật số", thời kỳ "Công nghệ số" \(Digital\). Nói cho đơn giản, kỹ thuật số giúp chúng ta chuyển đổi nhiều thứ \(hình ảnh, âm thanh, ký tự\) về dạng số và bảng số \(n x p như trong bảng Excel\)
+* Người dùng luôn tập trung vào cái lợi trước mặt của sự tiện lợi, cho số điện thoại để được tích điểm, share thông tin để sử dụng cái ứng dụng miễn phí. Chúng ta đều ít nhiều, một lần hay nhiều lần bị "mua" bởi cái giá rẻ mạt.
 * Chúng ta cần ý thức về: Tính Riêng Tư & Nhạy cảm của Data, và khả năng thao túng của Thuật Toán.
 
