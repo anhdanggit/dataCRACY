@@ -74,27 +74,31 @@ Liên tiếp trong cái ví dụ sau về Data: Hình Ảnh, Âm Thanh, Text và
 
 ### Hình Ảnh
 
-Trong ví dụ bên dưới, hình ảnh Sao Kim được số hoá, thành một bảng số liệu có dòng và cột như ra quen thuộc.
+Trong ví dụ bên dưới, hình ảnh Sao Kim được số hoá, thành một bảng số liệu có dòng và cột như ta quen thuộc.
 
 **Digitalize** \(Số hoá\) như sau:
 
 * Ảnh hai chiều được chia thành các pixel
 * Ở đây trong từng pixel là giá trị của grayscale vùng diện tích bên trong pixel đó
 
+Con người nhìn hình ảnh như bức ảnh trên-cùng-bên-trái, còn Máy nhìn như ma trận số dười-cùng-bên-phải.
+
 ![](../../.gitbook/assets/image%20%283%29.png)
 
 Còn màu sắc thì sao?
 
-Các màu sắc ta thấy là sự chồng lên nhau của ba lớp màu Đỏ - Xánh Lá - Xanh Dương \(RGB: Red-Green-Blue\). Với kỹ thuật chia pixel tương tự như trên, ta có được các lớp màu và chồng lên nhau thành hình ảnh quan sát được.
+Các màu sắc ta thấy là sự chồng lên nhau của ba lớp màu Đỏ - Xánh Lá - Xanh Dương \(RGB: Red-Green-Blue\). Với kỹ thuật chia pixel tương tự như trên, ta có được các lớp màu và chồng lên nhau thành hình ảnh quan sát được và màu sắc.
 
 ![](../../.gitbook/assets/image%20%2828%29.png)
 
 ### Âm Thanh
 
-Tương tự cũng có những kỹ thuật để biết sống âm thành Số, như bên dưới: Đo bước sóng và cao độ. Kết hợp nhiều bước chuyển đổi phức tạp, có thể có được bảng số như Spotify, mỗi bài hát được đính với các số đo đạc: Acousticness, Popularity, Danceablity \(Mỗi thông số có thể lấy input từ các thông tin khác nhau của sóng âm, ví dụ bước sóng ngắn - cao độ cao thì sẽ có Engery bài hát lớn hơn\).   
+Tương tự cũng có những kỹ thuật để biết sống âm thành Số, như bên dưới: Đo bước sóng và cao độ. Kết hợp nhiều bước chuyển đổi phức tạp, có thể có được bảng số như Spotify, mỗi bài hát được đính với các số đo đạc: `Acousticness`, `Popularity`, `Danceablity` \(Mỗi thông số có thể lấy input từ các thông tin khác nhau của sóng âm, ví dụ bước sóng ngắn - cao độ cao thì sẽ có Energy bài hát lớn hơn\).   
 
 
 ![](../../.gitbook/assets/image%20%282%29.png)
+
+![B&#xE0;i h&#xE1;t c&#x1EE7;a Chi Pu v&#x1EDB;i c&#xE1;c th&#xF4;ng s&#x1ED1;](../../.gitbook/assets/image%20%2840%29.png)
 
 ### Text
 
@@ -109,7 +113,7 @@ Truy cập: [https://databasic.io/en/wordcounter](https://databasic.io/en/wordco
 
 {% tab title="Chú Giải" %}
 * **Bigrams:** Cụm text 2 chữ
-* **Stopwords:** những từ sẽ "ignore" trong text analysis, ví dụ "this", "that", "and", "but"
+* **Stopwords:** hững từ sẽ "ignore" trong text analysis, ví dụ "this", "that", "and", "but"
 * **Trigrams:** Cụm text 3 chữ
 * **Word Cloud:** Dạng minh hoạ với các từ, độ to nhỏ của từ phụ thuộc tần suất xuất 
 {% endtab %}
@@ -119,7 +123,6 @@ Truy cập: [https://databasic.io/en/wordcounter](https://databasic.io/en/wordco
 {% tab title="Hoạt Động \#2" %}
 Truy cập: [https://databasic.io/en/samediff](https://databasic.io/en/samediff)
 
-* [ ] Input một đoạn text có chủ đề bạn quan tâm \(lyrics, news, wikipedia\)
 * [ ] Bạn thấy gì từ kết quả?
 {% endtab %}
 
@@ -130,7 +133,7 @@ Truy cập: [https://databasic.io/en/samediff](https://databasic.io/en/samediff)
 {% endtab %}
 {% endtabs %}
 
-* Word Clouds là cách biểu diễn data, để xem từ/chuỗi ký tự nào xuất hiện nhiều nhất \(Càng từ/chuỗi ký tự xuất hiện càng thường xuyên sẽ có kích thước càng to\): Số từ thường xuyên xuất hiện trong bài hát của riêng Beyonce, của riêng Aretha Franklin, và các từ thường giống nhau \(Love và Baby có vẻ là từ lặp lại nhiều nhất, khiến thuật toán này nhận định Lời của Beyonce và Franklin giống nhau đến 0.84 điểm.
+* **Word Clouds** là cách biểu diễn data, để xem từ/chuỗi ký tự nào xuất hiện nhiều nhất \(Càng từ/chuỗi ký tự xuất hiện càng thường xuyên sẽ có kích thước càng to\): Số từ thường xuyên xuất hiện trong bài hát của riêng Beyonce, của riêng Aretha Franklin, và các từ thường giống nhau \(`Love` và `Baby` có vẻ là từ lặp lại nhiều nhất, khiến thuật toán này nhận định Lời của Beyonce và Franklin giống nhau đến 0.84 điểm.
 
 ![](../../.gitbook/assets/image%20%286%29.png)
 
