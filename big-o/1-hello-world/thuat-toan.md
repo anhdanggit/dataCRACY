@@ -154,7 +154,7 @@ Bấm vào **`Under the hood`** trong cột **Training**.
 
 **Cụ thể:**
 
-* **Training Sample**: `X` \(, quan sát được\) map với `y` \(nhãn, quan sát được\) =&gt; Rút ra quy luật: `f( )`
+* **Training Sample**: `X` \(thuộc tính, quan sát được\) map với `y` \(nhãn, quan sát được\) =&gt; Rút ra quy luật: `f( )`
 * `f( )` có tính tổng quát: Đúng với cả **Test Sample**: `X'`, `y'` \(không cho mô hình coi\)
 * **Predict:** `y_pred = f(X')`
 * **Accuracy:** So sanh `y_pred` với `y'`
@@ -163,7 +163,7 @@ Máy sẽ nỗ lực học cho đến khi tối ưu được các chỉ số đ�
 
 ## Ứng dụng trong Cuộc Sống
 
-Cuối cùng, để nói về ứng dụng của Thuật Toán \(AI & ML\) trong đời sống, ta hãy điểm qua các chủ đề phồ biến và ứng dụng của chúng.
+Cuối cùng, để nói về ứng dụng của Thuật Toán \(AI & ML\) trong đời sống, ta hãy điểm qua các chủ đề phổ biến và ứng dụng của chúng.
 
 {% hint style="warning" %}
 Thuật toán không nhất thiết là ML hay AI, thuật toán có thể là những logic đơn giản do con người thiết lập \(**Rule-based**\)
@@ -248,13 +248,13 @@ Với các chủ đề bên dưới, bạn sẽ thiết kế một thuật toán
 
 ### Trí tuệ Người & Máy 
 
-* **Rule-based** \(bởi con người\) không nhất thiết kém hiệu quả hơn ML/AI. Có rất nhiều bài toán \(nhất là khi Data còn hạn chế\), rule-based sẽ hợp lý và hiệu quả hơn
+* **Rule-based** \(bởi con người\) không nhất thiết kém hiệu quả hơn ML/AI. Có rất nhiều bài toán \(nhất là khi Data còn hạn chế\), rule-based sẽ hợp lý và hiệu quả hơn.
 * **Rule-based** còn có ưu điểm là dễ hiểu, dễ thực hiện. Nhưng vì vậy, rule-based chỉ áp dụng được trong những trường hợp con người hiểu tốt vấn đề của họ.
-* **Machine Learning** lại phù hợp cho các bài toán không thể viết thành list IF-ELSE. Dù vậy con người không nhất thiết hiểu chuỗi logic cụ thể bên trong quyết định của chúng. Một câu chuyện kinh điển: Quân đội Mỹ phát triển một thuật toán nhận biết xe tăng địch. Kết quả rất tốt trên training/test samples, nhưng trong thực tế lại kém chính xác. Họ cũng quan sát được là vào những ngày nhiều mây, thuật toán có xu hướng nhận định mọi xe tăng chúng quan sát được là xe tăng địch. Sau đó, nhóm phát triển phát hiện ra họ vô tình chụp sample xe tăng địch vào những ngày nhiều mây ⇒ Thuật toán đã học bầu trời nhiều mây hay trời nắng đẹp \(rất lãng mạn\), chứ không chịu học phân biệt xe tăng \(rất phẩn chiến\)
+* **Machine Learning** lại phù hợp cho các bài toán không thể viết thành list IF-ELSE. Dù vậy con người không nhất thiết hiểu chuỗi logic cụ thể bên trong quyết định của chúng. _Một câu chuyện kinh điển_: Quân đội Mỹ phát triển một thuật toán nhận biết xe tăng địch. Kết quả rất tốt trên training/test samples, nhưng trong thực tế lại kém chính xác. Họ cũng quan sát được là vào những ngày nhiều mây, thuật toán có xu hướng nhận định mọi xe tăng chúng quan sát được là xe tăng địch. Sau đó, nhóm phát triển phát hiện ra, họ vô tình chụp sample xe tăng địch vào những ngày nhiều mây ⇒ Thuật toán đã rất lãng mạn: Mãi học bầu trời nhiều mây hay nắng đẹp, và rất phản chiến không chịu học phân biệt xe tăng.
 
 Thế thật nghĩ là Máy Móc cũng có những hạn chế của chúng, lần này hoặc lần khác ta lại thấy Google Maps chỉ đường "ngu" cho mình, hoặc là mình "ế" mốc cả ra mà cứ ngày đêm quảng cáo thuốc ngừa thai.
 
-> Nhưng chúng ta, con người chúng ta, càng ngày lại càng dựa dẫm và có niềm tin mù quáng vào con người. Ta luôn nghĩ những gì Máy Móc và Thuật Toán gợi ý luôn thông minh, ưu việt và ít sai sót hơn của con người.
+> Nhưng chúng ta, con người chúng ta, càng ngày lại càng dựa dẫm và có niềm tin mù quáng vào máy móc. Ta luôn nghĩ những gì Máy Móc và Thuật Toán gợi ý luôn thông minh, ưu việt và ít sai sót hơn của con người.
 
 Search Engines \(như Google\) có khả năng thao túng cách chúng ta nhìn nhận thế giới. Có câu nói đùa rằng: `Chỗ kín đáo nhất trên thế giới, là trang thứ 2 của kết quả tìm kiếm Google`. Bao nhiêu trong chúng ta sẽ lao vào kết quả đầu tiên của Google, và dừng lại ở 10 kết quả đầu tiên.
 
