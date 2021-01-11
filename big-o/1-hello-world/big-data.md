@@ -16,13 +16,13 @@ Mỗi chúng ta là một phần tạo lên nó.
 
 ## Data trông như thế nào?
 
-Dù đã dốc công tham khảo nhiều sách vở cũng không tìm được một định nghĩa thật dễ hiệu cho các bạn. Định nghĩa bên dưới kết hợp bởi "Data" trong từ điển Cambrigde và ý kiến chủ quan của người viết:
+Dù đã dốc công tham khảo nhiều sách vở, vẫn không tìm được một định nghĩa thật dễ hiệu cho các bạn. Định nghĩa bên dưới kết hợp bởi "Data" trong từ điển Cambridge và ý kiến chủ quan của người viết:
 
 > **Data \(Dữ liệu\):** Các quan sát, thường dưới dạng sự kiện hoặc số liệu, được lưu trữ nhằm mục đích kiểm tra, tham khảo và phục vụ cho mục đích ra quyết định.
 
-Cho phép tôi bắt đầu nói về Data ở dạng quen thuộc nhất với tất cả chúng ta: **Số và Bảng.** Đó là cách tự nhiên chúng ta nhất tương tác với Data trên: Google Sheet, Sao kê ngân hàng, hay báo cáo thu chi tài chính.
+Cho phép tôi bắt đầu nói về Data ở dạng quen thuộc nhất với tất cả chúng ta: **Số và Bảng.** Đó là cách tự nhiên nhất chúng ta thường tương tác với Data, trên: Google Sheet, Sao kê ngân hàng, hay báo cáo thu chi tài chính.
 
-Theo đó Data quen thuộc với chúng ta, có: **Cột và Dòng.**
+Theo đó, Data quen thuộc với chúng ta, với: **Cột và Dòng.**
 
 Như bên dưới:
 
@@ -47,14 +47,14 @@ Bảng sau là các bài hát nhạc Pop trên Spotify \(Bạn có thể khám p
 
 ## Big Data
 
-> Chúng ta được định hình, định tính bằng những con số: Số bạn bè trên mạng xã hội, số likes, số tiền trong tài khoản, số lần cà thẻ, số lượt dịch chuyển trong thành phố. Mỗi tin nhắn của ta có bao nhiêu từ, ta kết thúc bằng dấu chấm hay ba chấm. Mỗi cuộc gọi bao nhiêu phút. Trong một ngày, ta cầm điện thoại lên bao nhiêu lần, mỗi lần bao nhiêu giây, vào buổi sáng hay chiều, trưa hay là tối. Mất bao lâu ta uống hết một chai sữa 1.5 lít, mất bao lâu ta lại phải đặt văn phòng phẩm. Ta đang ngắm nghía tìm kiếm, muốn mua cái áo nào, cái điện thoại nào, chai sữa rửa mặt nào. Bao nhiêu bước chân ban ngày, bao nhiêu calorie tiêu thụ mỗi bữa ăn, bao nhiêu lượt trở mình ban đêm. Cô bất giác liếc nhìn cái smartwatch trên tay, trên đó nhấp nháy hiện lên 8,725 bước cô đã đi trong ngày, 108 nhịp tim cô đập trong một phút, đêm qua cô ngủ không ngon giấc.
+> Chúng ta được định hình, định tính bằng những con số: Số bạn bè trên mạng xã hội, số likes, số tiền trong tài khoản, số lần cà thẻ, số lượt dịch chuyển trong thành phố. Mỗi tin nhắn của ta có bao nhiêu từ, ta kết thúc bằng dấu chấm hay ba chấm. Mỗi cuộc gọi bao nhiêu phút. Trong một ngày, ta cầm điện thoại lên bao nhiêu lần, mỗi lần bao nhiêu giây, vào buổi sáng hay chiều, trưa hay là tối. Mất bao lâu ta uống hết một chai sữa 1.5 lít, mất bao lâu ta lại phải đặt văn phòng phẩm. Ta đang ngắm nghía tìm kiếm, muốn mua cái áo nào, cái điện thoại nào, chai sữa rửa mặt nào. Bao nhiêu bước chân ban ngày, bao nhiêu calorie tiêu thụ mỗi bữa ăn, bao nhiêu lượt trở mình ban đêm. Cô bất giác liếc nhìn cái smartwatch trên tay, trên đó nhấp nháy hiện lên 8,725 bước cô đã đi trong ngày, 108 nhịp tim cô đập trong một phút, đêm qua cô ngủ không ngon giấc. — Đặng Huỳnh Mai Anh \(2020\). Truyện ngắn "Học Máy"
 
-Big Data là hình chữ nhật n x p đó được phóng dãn theo chiều dọc \(**Big "n": nhiều cá thể được quan sát hơn\)** hay theo chiều ngang **\(Big "p": nhiều tính chất được quan sát hơn\).**
+Big Data là hình chữ nhật `n x p` đó được phóng dãn theo chiều dọc \(**Big "n": nhiều cá thể được quan sát hơn\)** hay theo chiều ngang **\(Big "p": nhiều tính chất được quan sát hơn\).**
 
 Ở nhiều thập kỷ trước, bộ Data khủng nhất là dữ liệu scanner bán hàng trong siêu thị. Để rồi trong những năm gần đây, với sự bùng nổ của Internet:
 
 * Có thể "track" được data của hàng tỷ người trên thế giới ⇒ **Big "n"**
-* Mỗi người dùng Internet lại lượng data khổng lồ của họ trong mỗi lần đăng nhập, mỗi cái nhấn chuột. Nhờ smartphone, nhiều thể loại data chưa từng thu thập được nay lại trở nên thông dụng: Hình ảnh \(camera/webcam\), Audio \(microphone\), Text \(Mạng Xã Hội\) ⇒ **Big "p"**
+* Mỗi người dùng Internet lại tạo ra lượng data khổng lồ trong mỗi lần đăng nhập, mỗi cái nhấn chuột. Nhờ smartphone, nhiều thể loại data chưa từng thu thập được nay lại trở nên thông dụng: Hình ảnh \(camera/webcam\), Audio \(microphone\), Text \(Mạng Xã Hội\) ⇒ **Big "p"**
 * Siêu máy tính \(GPU, TPU\) và công nghệ mới cho phép chúng ta xử lý và lưu trữ một lượng dữ liệu lớn
 
 ## Text, Âm thanh, Hình Ảnh
@@ -66,7 +66,7 @@ Big Data là hình chữ nhật n x p đó được phóng dãn theo chiều d�
 
 Cả hai ứng dụng AI trên đều dựa trên những dạng data không phải dạng quen thuộc với chúng ta: Không phải **Số**.
 
-Chúng ta cũng thường nghe về "Kỹ thuật số", thời kỳ "Công nghệ số" \(Digital\). Nói cho đơn giản, kỹ thuật số giúp chúng ta chuyển đổi nhiều thứ \(hình ảnh, âm thanh, ký tự\) về dạng số và bảng số \(n x p như trong bảng Excel. Bảng sẽ thấy đây là một ý tưởng cốt lõi\).
+Chúng ta cũng thường nghe về "Kỹ thuật số", thời kỳ "Công nghệ số" \(Digital\). Nói cho đơn giản, kỹ thuật số giúp chúng ta chuyển đổi nhiều thứ \(hình ảnh, âm thanh, ký tự\) về dạng số và bảng số \(n x p như trong bảng Excel. Đây là một ý tưởng cốt lõi\).
 
 > Tư duy căn bản của Toán học là: Khi vũ trụ quăng cho bạn một vấn đề quá phức tạp, hãy tìm cách giải quyết một vấn đề khác đơn giản hơn, rồi biến hoá sao cho cái “phiên bản” đơn giản hơn đó gần nhất có thể với “phiên bản” gốc của vũ trụ.
 
