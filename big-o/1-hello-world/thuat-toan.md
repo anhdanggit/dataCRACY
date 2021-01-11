@@ -12,32 +12,35 @@ OK. Vậy **Thuật Toán** là gì? Định nghĩa gốc của Thuật Toán c�
 
 > **Thuật toán** là tập hợp một chuỗi hướng dẫn/lệnh logic để \(Máy Tính\) giải quyết một vấn đề nào đó hay đưa ra một kết quả nào đó.
 
-Theo một định nghĩa rộng hơn \(và dễ hiểu hơn\), Thuật toán là một chuỗi các bước - Có Mở Đầu, Có Kết Thúc. Để thực hiện một task \(tác vụ\) cụ thể. Nếu không giới hạn ở chỉ Máy Tính, thì:
+Theo một định nghĩa rộng hơn \(và dễ hiểu hơn\), Thuật toán là một chuỗi các bước - Có Mở Đầu, Có Kết Thúc. Để thực hiện một task \(tác vụ\) cụ thể. 
+
+Nếu không giới hạn ở chỉ Máy Tính, thì:
 
 * Công thức nấu ăn ⇒ Là một Thuật Toán
-* Đi từ Văn Phòng về nhà, qua ngã tư ngã 5 ngã 7 ⇒ Là một Thuật Toán
-* Tấm lựa đậu: Đậu Đỏ bỏ rổ bên phải, đậu xanh bỏ rổ bên trai ⇒ Rất đơn giản, nhưng cũng là một thuật toán
+* Đi từ Văn Phòng về nhà, qua ngã 4 ngã 5 ngã 7 ⇒ Là một Thuật Toán
+* Tấm lựa đậu: Đậu ỏ bỏ rổ bên phải, đậu xanh bỏ rổ bên trai ⇒ Rất đơn giản, nhưng cũng là một thuật toán
 
 ### Thử viết Thuật Toán: Robot giao hàng
 
-![](../../.gitbook/assets/image%20%2823%29.png)
+![Ngu&#x1ED3;n: brilliant.org](../../.gitbook/assets/image%20%2823%29.png)
 
 {% tabs %}
 {% tab title="Hỏi" %}
 Chuỗi lệnh bên: `Phải-Lên-Phải-Phải-Lên`. Sẽ đưa Robot giao hàng đến nhà màu hồng. Lưu ý: Robot chỉ bay được trên các ô trắng:
 
-* Bạn thử viết chuỗi lệnh để Robot giao đến nhà màu Đỏ?
+* Bạn thử viết chuỗi lệnh để Robot giao đến nhà **màu Đỏ**?
 * Có nhà màu nào Robot không thể giao đến không?
 {% endtab %}
 
 {% tab title="Hints" %}
-`Phải-Lên-Lên-Trái-Trái`
+* ến nhà màu Đỏ: `Phải-Lên-Lên-Trái-Trái`
 {% endtab %}
 {% endtabs %}
 
 ### IF-ELSE-THEN: Ngôn Ngữ của Máy Tính
 
-Bạn đã điền qua [Trắc Nghiệm Data Persona](https://www.notion.so/Big-O-d543563c16d14409bf9c204228bfec3f)? Đây chính là một Thuật Toán.
+Bạn đã điền qua [Trắc Nghiệm Data Persona](https://www.notion.so/Big-O-d543563c16d14409bf9c204228bfec3f)?   
+Đây chính là một Thuật Toán.
 
 * Mỗi người tham gia trắc nghiệm sẽ đi theo một chuỗi câu hỏi khác nhau
 * Câu trả lời trước sẽ ảnh hưởng đến câu tiếp theo mà bạn được hỏi
@@ -47,9 +50,9 @@ Bạn đã điền qua [Trắc Nghiệm Data Persona](https://www.notion.so/Big-
 
 ![Nh&#x1EEF;ng g&#xEC; x&#x1EA3;y ra Ph&#xED;a sau Tr&#x1EAF;c Nghi&#x1EC7;m Data Persona](../../.gitbook/assets/image%20%2820%29.png)
 
-Khi đi sau vào setting của Trắc Nghiệm này, bạn sẽ thấy Giao Diện như trên:
+"Behind-the-scene" của Trắc Nghiệm này, bạn sẽ thấy Giao Diện như trên:
 
-1. Phần bên phải màn hình: **Logic Map \(dạng cây\)** tuần tự theo các bước, trong mỗi bước sẽ có những điều kiện Logic cụ thế khiến người tham gia sẽ rẽ sang nhanh nào
+1. Phần bên phải màn hình: **Logic Map \(dạng cây\)** tuần tự theo các bước, trong mỗi bước sẽ có những điều kiện Logic cụ thế quyết định người tham gia sẽ rẽ sang nhánh nào
 2. Bên trái màn hình: **Chuỗi Điều kiện Logic**. Ví dụ: Nếu bạn không tự tin giải thích khái niệm trung vị ⇒ Bạn nên tham gia Datatalk\#2 - Đọc-Hiểu. Nếu bạn tự tin ⇒ bạn nên tham gia Datatalk\#3 - Tư Duy Data.
 3. Bạn sẽ thấy \(1\) và \(2\) thật ra là cùng một câu chuyện: Cây Logic có thể được diễn đạt dưới dạng 1 chuỗi **IF** ... **ELSE** ... **THEN**
 
@@ -70,7 +73,7 @@ Ví dụ, trong trắc nghiệm Data Persona, có điều kiện: Nếu người
 Trở lại với Robot giao hàng của chúng ta, và bài toán giống-giống mà khác:
 
 {% hint style="success" %}
-Hãy viết "thuật toán" mới để Robot giao đến Nhà màu Hồng?
+Hãy viết "thuật toán" mới để Robot giao đến **Nhà màu Hồng**?
 {% endhint %}
 
 Bạn có thấy phiền không? Và nếu chúng ta có một vạn ngôi nhà màu hồng ở các địa hình khác nhau? Chúng ta phải viết một vạn thuật toán Trái-Phải-Lên-Xuống như vậy?
@@ -111,17 +114,17 @@ Bạn có nhận ra: Bạn vừa tương tác với **Trí Tuệ Nhân Tạo**?
 
 > “Tôi nói đến đâu rồi nhỉ. À, Học Máy, nó cũng giống như cách con người học thôi. Người ta dạy máy móc y như cách con người được dạy dỗ”. \[...\] À, vậy thì hãy dạy máy như dạy một đứa trẻ. “Cô nghĩ một đứa trẻ học về thế giới như thế nào?”, hắn hỏi. \[…\] “Người ta cho chúng những ví dụ”, hắn tự đáp. Đây là một con chó, đây cũng là một con chó, đây là một con chó khác. Chỉ cho đứa trẻ một trăm lần, và gọi đó là con chó. Đứa trẻ rồi sẽ học được đó là chó. — _Đặng Huỳnh Mai Anh \(2020\). Truyện ngắn "Học Máy"_
 
-Vậy cái Trí Tuệ Nhân Tạo làm cách nào mà nhìn được cái hình vẽ xấu ỉn trên là một **Máy Rửa Chén.** Dám cá là còn Sáng tạo hơn khối chúng ta.
+Vậy Trí Tuệ Nhân Tạo làm cách nào mà nhìn được cái hình vẽ xấu ỉn trên là một Máy Rửa Chén. Dám cá là còn Sáng tạo hơn khối chúng ta.
 
 À, vì Thuật toán đằng sau `Quick, Draw!` đã "học" **147,814 bức vẽ** Máy Rửa Chén từ đèm đẹp đến xấu banh của người dùng Internet. Đây là các "ví dụ" nó đã học.
 
 ![](../../.gitbook/assets/image%20%2832%29.png)
 
-Mỗi khi so phải giải thích về **Machine Learning \(ML\)** thật dễ hiểu, tôi ưa lấy ví dụ bằng: Thay vì một chuỗi mệnh đề IF-ELSE cổ điển, ta dạy máy móc như một đứa trẻ. Việc cho máy tính xem 147,814 bức vẽ cái máy giặt làm tôi liên tưởng đến việc dạy cho những đứa trẻ nhận biết đồ vật, chữ cái, hình học bằng việc chỉ cho chúng xem những thẻ hình.
+Mỗi khi phải giải thích về **Machine Learning** thật dễ hiểu, tôi ưa lấy ví dụ bằng: Thay vì một chuỗi mệnh đề IF-ELSE cổ điển, ta dạy máy móc như một đứa trẻ. Việc cho máy tính xem 147,814 bức vẽ cái máy giặt làm tôi liên tưởng đến việc dạy cho những đứa trẻ nhận biết đồ vật, chữ cái, hình học bằng việc chỉ cho chúng xem những thẻ hình.
 
 Và, sau khi chúng trả lời, bảo chúng "Đúng rồi!" \(Hoan hô\) hoặc "Sai rồi" \(Mặt buồn\).
 
-Máy thật sự cũng học như vậy.
+Máy cũng học như vậy.
 
 ### Dạy mô hình ML của bạn
 
@@ -146,9 +149,8 @@ Bấm vào **`Under the hood`** trong cột **Training**.
 {% endhint %}
 
 * Khi bạn bấm `train`, máy sẽ chia hình ảnh của bạn thành **Training sample** \(đưa cho "đứa trẻ" học\) và **Test sample** \(đưa để kiểm tra "đứa trẻ"\)
-* **Accuracy per class \(Độ chính xác trên mỗi nhóm\)**: % lần mô hình đoán đúng trên tập Test
+* **Accuracy per class \(Độ chính xác trên mỗi nhóm\)**: % lần mô hình đoán đúng trên tập Test. Accuracy được đo trên Training sample và Test sample ⇒ Để coi đứa nhỏ có học "vẹt" không \(Đoán rất tốt trên training sample, nhưng đoán tệ trên test sample\)
 * **Confusion Matrix:** Tương quan giữa kết quả mô hình đoán và kết quả thực tế
-* Accuracy được đo trên Training sample và Test sample ⇒ Để coi đứa nhỏ có học "vẹt" không \(Đoán rất tốt trên training sample, nhưng đoán tệ trên test sample\)
 
 **Cụ thể:**
 
