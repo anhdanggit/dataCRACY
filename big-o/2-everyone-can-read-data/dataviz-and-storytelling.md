@@ -115,6 +115,8 @@ Với mỗi câu hỏi tiếp theo, bạn hãy thử đi theo mô hình **PPDAC*
 
 Dữ liệu về Thời gian biểu có thể được thu thập bằng cách ngây thơ \(tương tự như chủ đều hạnh phúc\), hỏi trực tiếp: "Bạn dùng bao nhiều tiếng một ngày cho những việc gì?". Cho đến những hệ thống tracking phức tạp.
 
+Ta sẽ tìm hiểu thông quá bài phân tích [Time Use \(Esteban Ortiz-Ospina, Charlie Giattino and Max Roser\)](https://ourworldindata.org/time-use#how-do-people-across-the-world-spend-their-time-and-what-does-this-tell-us-about-living-conditions) trên OurWorldinData.org
+
 ### Ta dùng thời gian thế nào
 
 ![](../../.gitbook/assets/image%20%2853%29.png)
