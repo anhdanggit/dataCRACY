@@ -55,3 +55,9 @@ Chào mừng bạn 🎉🎉
    * Theo dõi và đọc các nội dung tiếp theo của **DATACracy**
 {% endhint %}
 
+## **Nguồn tham khảo**
+
+1. David Spielgelharter. The Art of Statistics: Learning from Data. A Pelican Book.
+2. Hạnh Phúc và Thoả Mãn \(Esteban Ortiz-Ospina & Max Roser, 2013\) trên [OurWorldInData.org](http://ourworldindata.org/).
+3. Time Use \(Esteban Ortiz-Ospina, Charlie Giattino and Max Roser\) trên [OurWorldinData.org](http://ourworldindata.org/)
+
