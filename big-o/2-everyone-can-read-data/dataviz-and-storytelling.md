@@ -24,7 +24,7 @@ Ngày trước khi còn đi dạy IELTS dạo, tôi thường để mọi ngư�
 * **Analysis:** Phân tích, bao gồm: Tạo bản data \(cột và dòng\), dùng các hàm gộp, so sánh-tính toán, vẽ biểu đồ, tìm các quy luật, tạo thành các giả thuyết
 * **Conclusion:** Diễn dịch, kết luận, truyền đạt, hoặc thêm các câu hỏi mới \(xác minh giả thuyết\) trở lại bước P.
 
-![](../../.gitbook/assets/image%20%2858%29.png)
+![](../../.gitbook/assets/image%20%2863%29.png)
 
 Source: [The University of Auckland](https://www.stat.auckland.ac.nz/~wild/d2i/articles/1.4%20Place%20of%20data%20analysis%20in%20problem%20solving_ARTICLE.pdf)
 
@@ -66,13 +66,13 @@ Tiếp tục câu chuyện về [Hạnh Phúc của phần trước](du-lieu-ky-
   * Nhưng, tương quan không hẳn là nhân quả
   * Có những sự tương quan chỉ mang tính tình cờ \(Ta sẽ bàn trong [**Datatalk\#3**](../coming-soon./3-data-thinking.md)\) 
 
-![](../../.gitbook/assets/image%20%2855%29.png)
+![](../../.gitbook/assets/image%20%2859%29.png)
 
 ### Sóng Gió Cuộc Đời
 
 > Trải qua một cuộc bể dâu, Những điều trong thấy mà đau đơn lòng — Truyện Kiều, Nguyễn Du
 
-![](../../.gitbook/assets/image%20%2856%29.png)
+![](../../.gitbook/assets/image%20%2861%29.png)
 
 {% hint style="info" %}
 Full-size chart [HERE](https://ourworldindata.org/happiness-and-life-satisfaction#how-do-common-life-events-affect-happiness)
@@ -119,7 +119,7 @@ Ta sẽ tìm hiểu thông quá bài phân tích [Time Use \(Esteban Ortiz-Ospin
 
 ### Ta dùng thời gian thế nào
 
-![](../../.gitbook/assets/image%20%2853%29.png)
+![](../../.gitbook/assets/image%20%2854%29.png)
 
 * Con người chúng ta, trên toàn thế giới dành phần lớn thời gian để: Làm việc và Ngủ.
 * Giữa các quốc gia và văn hoá lại có những khác biệt:
@@ -208,7 +208,7 @@ Lượng Data đó có thể sử dụng bởi chính chúng ta, thông báo cho
 Với concept tương tự những gì ta đã bàn, nhưng smart device và ứng dụng cho phép cuộc khảo sát về cảm xúc diễn ra mỗi ngày, với mỗi người, trong suốt nhiều năm. Bên dưới là hình ảnh của app Daylio. Các dữ liệu và biểu đồ sẽ cho bạn biết cảm xúc của bạn thay đổi thế nào qua năm tháng, vui vẻ / khó ở vào ngày nào trong tuần, trong tháng. Điều gì thường làm bạn vui?  
 
 
-![](../../.gitbook/assets/image%20%2857%29.png)
+![](../../.gitbook/assets/image%20%2862%29.png)
 
 #### Giấc ngủ và những cái trở mình
 
@@ -217,7 +217,7 @@ Với concept tương tự những gì ta đã bàn, nhưng smart device và ứ
 Tôi sẽ dừng ở đây, và đi đọc lại bài đọc của [**Datatalk\#1 về Big Data**](../1-hello-world/big-data.md#data-tiet-lo-gi-ve-chung-ta).  
 
 
-![](../../.gitbook/assets/image%20%2854%29.png)
+![](../../.gitbook/assets/image%20%2858%29.png)
 
 ## Recap
 
