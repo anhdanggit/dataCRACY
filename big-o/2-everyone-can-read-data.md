@@ -1,5 +1,7 @@
 # Datatalk\#2 - Data Đọc-Hiểu
 
+![](../.gitbook/assets/image%20%2843%29.png)
+
 ## Dẫn nhập
 
 > Cô đơn không phải là vì không có ai cạnh mình, mà là không thể truyền tải những điều rất quan trọng với mình, hoặc có một góc nhìn mà không ai nhìn thấy. — Carl Jung
@@ -18,7 +20,7 @@ Chính vì vậy, ở **Datatalk\#2** bắt đầu những tương tác với Da
 
 Vì não bộ con người vốn không được thiết kế để hiểu con số, **Datatalk\#2** sẽ tập trung phần với vào DataViz \(Data Visualization\) - Cách biểu đạt và truyển tải dữ liệu dưới dạng biểu đồ và hình hoạ. Chúng tôi muốn chỉ cho bạn xem biểu đồ không chỉ có cột-đường-quạt nhàm chán nhưng chúng ta thường thấy, việc "hoạ" Data là cả một nghệ thuật và thành quả thì mãn nhãn không kém một tác phẩm nghệ thuật.
 
-![Music Mountains by Skyler Johnson, Tableau Public Gallery](../.gitbook/assets/image%20%2843%29.png)
+![Music Mountains by Skyler Johnson, Tableau Public Gallery](../.gitbook/assets/image%20%2844%29.png)
 
 Music Mountains by Skyler Johnson, [Tableau Public Gallery](https://public.tableau.com/profile/skybjohnson#!/vizhome/MusicMountains/mountains). 
 
