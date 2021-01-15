@@ -266,12 +266,12 @@ Mong rằng với các khái niệm cơ bản trong thống kê và những khuy
 
 ## Recap
 
-1. Không toán học, không công thức, không định lý, việc con người tương tác với dữ liệu là một hành trình tìm kiếm những quy luật, thu thập những quan sát, rút ra những chiêm nghiệm, để hiểu hơn về sự vận hành của thế giới, và "mở" ra chính chúng ta.
-2. Để có thể đo và đếm một vấn đề cần trả lời, ta phân loại/dán nhãn các sự việc để đếm, định lượng các quan sát để đo lường.
-3. **Biến \(Variable\):** Như tên gọi, đây là đại lượng có tính "biến đổi" và không cố định với từng cá thể quan sát.
-4. Biến Phân Loại thường mang tính Định tính \(qualitative\). Khác với Biến Phân Loại, Biến Số \(GDP, dân số\) mang tính Định lượng \(quantitative\)
-5. Ta cần gộp nhiều giá trị thành một giá trị cho mục đích so sánh, tính toán, và truyền tải. Biến đổi gộp là các bước biến đổi, tính toán để gộp nhiều con số lại thành một con số.
-6. Như chính tên gọi, **Giá trị kỳ vọng** là giá trị "best guess" cho một cá thể bất kỳ bốc ra từ một tập thể.
-7. Khoản tin cậy 95% của giá trị X là khoản mà 95% số cá thể trong một tập sẽ có giá trị X nằm trong khoản đó.
-8. Có hai khái niệm về dữ liệu và thống kê quen thuộc mà "bà con" ưa dùng nhất: Phần trăm và Trung Bình. Đáng buồn thay đó là hai khái niệm dễ ngộ nhận nhất.
+* Không toán học, không công thức, không định lý, việc con người tương tác với dữ liệu là một hành trình tìm kiếm những quy luật, thu thập những quan sát, rút ra những chiêm nghiệm, để hiểu hơn về sự vận hành của thế giới, và "mở" ra chính chúng ta.
+* Để có thể đo và đếm một vấn đề cần trả lời, ta phân loại/dán nhãn các sự việc để đếm, định lượng các quan sát để đo lường.
+* **Biến \(Variable\):** Như tên gọi, đây là đại lượng có tính "biến đổi" và không cố định với từng cá thể quan sát.
+* Biến Phân Loại thường mang tính **Định tính \(qualitative\)**. Khác với Biến Phân Loại, Biến Số \(GDP, dân số\) mang tính **Định lượng \(quantitative\)**
+* Ta cần gộp nhiều giá trị thành một giá trị cho mục đích so sánh, tính toán, và truyền tải. Biến đổi gộp là các bước biến đổi, tính toán để gộp nhiều con số lại thành một con số.
+* Như chính tên gọi, **Giá trị kỳ vọng** là giá trị "best guess" cho một cá thể bất kỳ bốc ra từ một tập thể.
+* Khoản tin cậy 95% của giá trị X là khoản mà 95% số cá thể trong một tập sẽ có giá trị X nằm trong khoản đó.
+* Có hai khái niệm về dữ liệu và thống kê quen thuộc mà "bà con" ưa dùng nhất: Phần trăm và Trung Bình. Đáng buồn thay đó là hai khái niệm dễ ngộ nhận nhất.
 
