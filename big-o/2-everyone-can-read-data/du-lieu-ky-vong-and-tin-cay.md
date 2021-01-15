@@ -80,14 +80,14 @@ Như vậy ta đã vừa phân loại và "dán nhãn" cho những mức độ k
 
 Bằng cách phân loại đó, ta có thể cho: `Số người hạnh phúc = Số người trả lời "Rất Hạnh Phúc" + Số người trả lời "Khá Hạnh Phúc"`. Ta được biểu đồ sau:
 
-{% hint style="success" %}
+{% hint style="warning" %}
 **Câu hỏi:** Bây giờ chúng ta có hạnh phúc hơn xưa?
 {% endhint %}
 
 * Nhìn chung, các nước đều có tỷ lệ hạnh phúc tăng lên theo thời gian
 * Việt Nam nằm trong Top cao về Hạnh Phúc \(đây có phải là khảo sát mà từ đó ta có bài báo Việt Nam là đất nước hạnh phúc nhất thế giới?\)
 
-![](../../.gitbook/assets/image%20%2847%29.png)
+![](../../.gitbook/assets/image%20%2848%29.png)
 
 ## Sự Thoả Mãn: Số Trung Bình
 
@@ -97,7 +97,7 @@ Trong thực tế, The World Happiness Report là một nguồn khá đáng tin 
 
 Chỉ số Hạnh Phúc là đại lượng chúng ta sẽ dùng để trả lời những câu hỏi về hạnh phúc trong phần này.
 
-{% hint style="success" %}
+{% hint style="warning" %}
 **Câu hỏi:** Quốc gia nào hạnh phúc nhất thế giới?
 {% endhint %}
 
@@ -110,7 +110,7 @@ Bên dưới là bản đồ thế giới \([interactive link](https://ourworldi
 
 Như vậy, có nghĩa là: Việt Nam dù hạnh phúc hơn nhưng lại ít thoả mãn hơn so với Đức? Bạn nghĩ sao?
 
-![](../../.gitbook/assets/image%20%2845%29.png)
+![](../../.gitbook/assets/image%20%2846%29.png)
 
 {% hint style="success" %}
 **Hoạt Động \#1** Vào [Link Interactive Chart](https://ourworldindata.org/grapher/happiness-cantril-ladder?time=2014), ở góc trái dưới biểu đồ chọn `DOWNLOAD`. Bạn có thể copy data lên Google Spreadsheet để xem và tương tác với data.
@@ -123,21 +123,27 @@ Như vậy, có nghĩa là: Việt Nam dù hạnh phúc hơn nhưng lại ít th
 
 Đằng sau phần đồ hoạ xinh đẹp trên, Data vẫn là data, một bảng số liệu với dòng và cột \(Có thể đọc lại phần giới thiệu về [Data ở Datatalk\#1](../1-hello-world/big-data.md)\).
 
-![](../../.gitbook/assets/image%20%2844%29.png)
+![](../../.gitbook/assets/image%20%2845%29.png)
 
 ### Số Trung Bình
 
-**Hoạt Động \#2** Trung bình chỉ số hạnh phúc của thế giới?
+{% tabs %}
+{% tab title="Hoạt Động \#2" %}
+Dùng Data trên: Trung bình chỉ số hạnh phúc của thế giới?
+{% endtab %}
 
-* **Hints**
-
+{% tab title="Hint" %}
 Chỉ số trung bình của thế giới \(2014\): 5.38.
+{% endtab %}
+{% endtabs %}
 
 Việt Nam nằm dưới mức trung bình của thế giới về mức độ thoả mãn.
 
 Khi nhìn vào Data \(như bảng trên\), ta đôi khi cần **một con số đại diện** để nói lên tình hình chung của các thành viên. Cụ thể ở đây, ta có nhiều nước - mỗi nước có một điểm số hạnh phúc khác nhau. Để thể hiện tình hình của thế giới, ta chọn số trung bình.
 
+{% hint style="info" %}
 Số trung bình = Tổng giá trị của các thành viên / Số thành viên
+{% endhint %}
 
 Tương tự, khi nói Chỉ số hạnh phúc trung bình của Việt Nam là: 5.08. Ta đã cộng hết các giá trị khai báo của mỗi người Việt Nam \(nằm trong mẫu khảo sát\), có giá trị từ: 0-10, chia cho số người. Ta lấy đó là số đại diện cho tình hình hành phúc của Việt Nam.
 
@@ -155,11 +161,13 @@ Ta không thể in một bản số liệu với 4 cột và 137 dòng như trê
 
 Tương tự, ta cũng không thể vẽ bản đồ thế giới với màu sắc tượng tưng cho mức độ hạnh phúc, nếu ta không gộp lại được chỉ số hạnh phúc của toàn dân Việt Nam thành một con số.
 
-Vì bản thân việc gộp lại cho phép ta dễ dàng so sánh và tính toán. Một cách rất tự nhiên, ta vẫn dùng biến đổi gộp mỗi ngày, ví dụ cộng các khoản thu/chi lại thành Tổng Thu hay Tổng Chi. Chúng đều là Biến Đối Gộp
+Vì bản thân việc gộp lại cho phép ta dễ dàng so sánh và tính toán. Một cách rất tự nhiên, ta vẫn dùng biến đổi gộp mỗi ngày, ví dụ cộng các khoản thu/chi lại thành Tổng Thu hay Tổng Chi. Chúng đều là **Biến Đối Gộp**.
 
+{% hint style="info" %}
 Biến đổi gộp là các bước biến đổi, tính toán để gộp nhiều con số lại thành một con số.
+{% endhint %}
 
-Hai biến đổi gộp quen thuộc nhất là: Trung Bình và Tổng Cộng. Nhưng một số biến đổi gộp khác là: Trung Vị, Mode, Phương Sai, Độ Lệch Chuẩn. Chúng đều nhằm mục đích mô tả một dãy số liệu, cụ thể hơn là mô tả tính chất của phân phối một giá trị bằng một giá trị.
+Hai biến đổi gộp quen thuộc nhất là: **Trung Bình và Tổng Cộng**. Nhưng một số biến đổi gộp khác là: Trung Vị, Mode, Phương Sai, Độ Lệch Chuẩn. Chúng đều nhằm mục đích mô tả một dãy số liệu, cụ thể hơn là **mô tả tính chất của phân phối một giá trị bằng một giá trị**.
 
 ### Tính Đại Diện & Giá Trị Kỳ Vọng
 
@@ -171,11 +179,13 @@ Như bên dưới là biểu đồ điểm \(scatter plot\) của 146 quốc gia
 
 Giá trị trung bình của thế giới là 5.38, biểu diễn là đường màu đỏ đi qua giữa "đám" điểm của các nước. Bạn sẽ thấy có những nước có giá trị cao hơn 5.38, có những nước thấp hơn 5.38.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/513bbad9-5359-41b0-9c77-6fbf630f2a61/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/513bbad9-5359-41b0-9c77-6fbf630f2a61/Untitled.png)
+![](../../.gitbook/assets/image%20%2849%29.png)
 
 Như thế nào là một giá trị đáng để mang tính đại diện? Khi nó "typical", theo nghĩa nếu ngẫu nhiên bốc một thằng khỏi 146 điểm, ta mong thấy nó xêm xêm giá trị đại diện. Chính vì thế, giá trị trung bình \(trong một số điều kiện cụ thể\) chính là **Giá Trị Kỳ Vọng** của một tập thể.
 
+{% hint style="info" %}
 Như chính tên gọi, **Giá trị kỳ vọng** là giá trị "best guess" cho một cá thể bất kỳ bốc ra từ một tập thể.
+{% endhint %}
 
 Điều này thú vị thay cũng hết sức tự nhiên, khi buộc phải tiên đoán giá trị gì, chúng ta thường lấy giá trị trung bình "50/50". Quán tính rất con người đó, thật ra cũng cực kỳ "thống kê học".
 
@@ -191,7 +201,9 @@ Ta cần một con số - một cách đo đạc cho sự phân tán xung quanh 
 
 Tuy vậy, phương sai - độ lệch chuẩn thường ít được dùng trong đời sống thường ngày. Nhưng ta hay nghe đến một khái niệm nhằm mục đích tương tự: Khoản tin cậy.
 
+{% hint style="warning" %}
 Khoản tin cậy 95% nghĩa là sao?
+{% endhint %}
 
 Từ đường trung bình ở 5.38, ta dịch chuyển về hai phía trên-dưới, cho đến khi các điểm nằm giữa hai đường đứt-gạch là 138 điểm \(95% của 146 quốc gia\), ta nói: 95% \(của 146\) quốc gia có chỉ số hạnh phúc nằm trong mức 3.xx tới 7.xx
 
@@ -213,7 +225,7 @@ Trong các khái niệm đã bàn qua, Phần trăm có lẽ là cụm từ xu�
 
 Cùng một câu chuyện phần trăm, hai cách diễn dịch có thể gây cảm giác rất khác nhau:
 
-* 90% người Việt Nam cảm thấy hạnh phúc. HAY:
+* 90% người Việt Nam cảm thấy hạnh phúc.  HAY:
 * 10% người Việt Nam cảm thấy không hạnh phúc
 
 Một vấn đề cũng cần lưu ý là: Các khảo sát chỉ được thực hiện trên một mẫu nhất định, không ai đủ khả năng và kinh phí để đi hỏi hết 7 tỷ người trên thế giới câu hỏi về hạnh phúc. Mẫu này thường nhỏ hơn rất nhiều so với số lượng thực tế của dân số \(7 tỷ\), nhưng bằng tính ngẫu nhiên và một số nguyên tắc trong chọn mẫu, ta có thể tin là mẫu mang tính đại diện và các quan sát trên mẫu gần tương đương với toàn bộ dân số \(Ta sẽ nói về chủ đề này trong Datatalk\#3\).
@@ -237,9 +249,10 @@ Giá trị trung bình của chỉ số hạnh phúc cho 146 nước là: 5.38.
 
 Bây giời, ta giả sử có một quốc gia "ngoài hành tinh" bỗng dưng có chỉ số là 1000. Hay thực tế hơn là ta có một quốc gia nhập dữ liệu bị sai, mà người xử lý quên chưa sửa. Ta sẽ có biểu đồ như sau, và giá trị trung bình lúc này là: 12.21. Tăng gấp đôi chỉ bởi vì một giá trị duy nhất.
 
-Ta thấy lúc này giá trị trung bình không còn tính đại diện hay kỳ vọng nữa, vì 146 quốc gia đều có chỉ số hạnh phúc &lt; 12. Và nếu bốc ngẫu nhiên một quốc gia, 12 sẽ là con số kỳ vọng thấp nhất có thể xảy ra.
+Ta thấy lúc này giá trị trung bình không còn tính đại diện hay kỳ vọng nữa, vì 146 quốc gia đều có chỉ số hạnh phúc &lt; 12. Và nếu bốc ngẫu nhiên một quốc gia, 12 sẽ là con số kỳ vọng thấp nhất có thể xảy ra.  
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1f51036b-8fc6-4961-9d61-f862367dd8e3/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1f51036b-8fc6-4961-9d61-f862367dd8e3/Untitled.png)
+
+![](../../.gitbook/assets/image%20%2843%29.png)
 
 Có nhiều tình huống tương tự và thực tế hơn, không phải do lỗi và cũng không phải người ngoài hành tinh, thu nhập cũng dễ có những giá trị "extreme" như vậy. Chúng ta rất có câu cửa miệng: "Trên mức trung bình". Và dễ mặc định trên mức trung bình là trên 50% dân số. Ta đã bỏ qua hình hài của sự phân phối.
 
