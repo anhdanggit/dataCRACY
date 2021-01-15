@@ -13,6 +13,7 @@
   * [DataYourself: Spotify & Data Privacy](big-o/1-hello-world/d-aty-spotify-data.md)
 * [Datatalk\#2 - Data Đọc-Hiểu](big-o/2-everyone-can-read-data/README.md)
   * [Dữ liệu, Kỳ Vọng & Tin Cậy](big-o/2-everyone-can-read-data/du-lieu-ky-vong-and-tin-cay.md)
+  * [DataViz & Storytelling](big-o/2-everyone-can-read-data/dataviz-and-storytelling.md)
 * [Coming Soon.](big-o/coming-soon./README.md)
   * [Datatalk\#3 - Data Thinking](big-o/coming-soon./3-data-thinking.md)
   * [Datatalk\#4 - Data & Careers](big-o/coming-soon./4-data-sceptic.md)
