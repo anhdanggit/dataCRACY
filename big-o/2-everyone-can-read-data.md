@@ -35,6 +35,9 @@ Chào mừng bạn 🎉🎉
 
 ## Datatalk\#2 - Agenda
 
+{% hint style="info" %}
+## Datatalk\#2 - Data Đọc-Hiểu
+
 1. Trước **Datatalk\#2**, Người Tham Gia được khuyến khích đọc trước tài liệu \(Sẽ gửi ra trước ngày tổ chức\)
    * [Dữ liệu, Thông tin & Sự Thật](https://www.notion.so/2-0-D-li-u-C-u-chuy-n-S-th-t-1d0e7110672348938bc5d60a9478c692)
    * [DataViz](https://www.notion.so/2-1-DataViz-Storytelling-a71f25b7c347404eb64ace182cd699c5)
@@ -48,4 +51,5 @@ Chào mừng bạn 🎉🎉
    * [FiveThirtyEight](https://www.notion.so/DataYourself-OurWorldinData-c31a790d7679416abdde78150924d9fd)
    * Chia sẻ quan điểm và giúp lan truyền thông điệp của dự án với hashtag `#DATACracy` `#BigO_Datatalk` `#`DataLiteracy
    * Theo dõi và đọc các nội dung tiếp theo của **DATACracy**
+{% endhint %}
 
