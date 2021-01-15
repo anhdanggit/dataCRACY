@@ -121,7 +121,7 @@ Như vậy, có nghĩa là: Việt Nam dù hạnh phúc hơn nhưng lại ít th
 4. Tìm quốc gia có chỉ số hạnh phúc cao nhất và thấp nhất
 {% endhint %}
 
-Đằng sau phần đồ hoạ xinh đẹp trên, Data vẫn là data, một bảng số liệu với dòng và cột \(Có thể đọc lại phần giới thiệu về [Data ở Datatalk\#1](../1-hello-world/big-data.md)\).
+Đằng sau phần đồ hoạ xinh đẹp trên, Data vẫn là data, một bảng số liệu với dòng và cột \(Có thể đọc lại phần giới thiệu về [**Data ở Datatalk\#1**](../1-hello-world/big-data.md#data-trong-nhu-the-nao)\).
 
 ![](../../.gitbook/assets/image%20%2845%29.png)
 
