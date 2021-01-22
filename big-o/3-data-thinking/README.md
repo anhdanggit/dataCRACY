@@ -47,4 +47,5 @@ Nội dung của **Datatalk\#3**, muốn nói về việc làm sao tổng quát 
 1. Timo Elliott \(2018\). [Predictive is the Next Step in Analytics Maturity? It's More Complicated Than That.](https://timoelliott.com/blog/2018/04/predictive-is-the-next-step-in-analytics-maturity-its-more-complicated-than-that.html)
 2. Judea Pearl & Dana Mackenzie \(2018\). The Book of Why: The New Science of Cause and Effect.
 3. David Spielgelharter. The Art of Statistics: Learning from Data.
+4. [Seeing Theory. A visual introduction to probability and statistics.](https://seeing-theory.brown.edu/index.html)
 
