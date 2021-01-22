@@ -15,8 +15,11 @@
   * [Dữ liệu, Kỳ Vọng & Tin Cậy](big-o/2-everyone-can-read-data/du-lieu-ky-vong-and-tin-cay.md)
   * [DataViz & Storytelling](big-o/2-everyone-can-read-data/dataviz-and-storytelling.md)
   * [DataYourself: OurWorldinData](big-o/2-everyone-can-read-data/datayourself-ourworldindata.md)
+* [Datatalk\#3 - Data Thinking](big-o/3-data-thinking/README.md)
+  * [Data Thinking: Quy Nạp](big-o/3-data-thinking/data-thinking-quy-nap.md)
+  * [Xác suất & Giả-thuyết-không](big-o/3-data-thinking/xac-suat-and-gia-thuyet-khong.md)
+  * [Tương quan & Nhân-Quả](big-o/3-data-thinking/tuong-quan-and-nhan-qua.md)
 * [Coming Soon.](big-o/coming-soon./README.md)
-  * [Datatalk\#3 - Data Thinking](big-o/coming-soon./3-data-thinking.md)
   * [Datatalk\#4 - Data & Careers](big-o/coming-soon./4-data-sceptic.md)
 * [Tham Khảo](big-o/reference.md)
 

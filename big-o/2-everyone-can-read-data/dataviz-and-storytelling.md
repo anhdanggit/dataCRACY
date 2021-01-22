@@ -64,7 +64,7 @@ Tiếp tục câu chuyện về [Hạnh Phúc của phần trước](du-lieu-ky-
 * **Conclusion:**
   * Có sự tương quan giữa quốc gia giàu/nghèo và mức thoả mãn trung bình
   * Nhưng, tương quan không hẳn là nhân quả
-  * Có những sự tương quan chỉ mang tính tình cờ \(Ta sẽ bàn trong [**Datatalk\#3**](../coming-soon./3-data-thinking.md)\) 
+  * Có những sự tương quan chỉ mang tính tình cờ \(Ta sẽ bàn trong [**Datatalk\#3**](../3-data-thinking/)\) 
 
 ![](../../.gitbook/assets/image%20%2859%29.png)
 
