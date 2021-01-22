@@ -19,7 +19,7 @@ Khao khát của mọi doanh nghiệp, tổ chức, nghiên cứu, người phâ
 
 Chúng cho ta biết về quá khứ, nhưng hiểu biết đó chỉ có ý nghĩa khi chúng giúp ích được ta trong tương lai: **Phân tích Dự đoán** _- Điều gì sẽ xảy ra \(Predictive Analytics\)_ và **Phân tích Đề Xuất** _- Điều gì sẽ dẫn đến điều gì? Ta làm gì để điều này xảy ra \(Prescriptive Anaytics\)._
 
-![Source: STAGES OF DATA ANALYTICS MATURITY \(ADAPTED FROM DAVENPORT &amp; HARRIS 2007 / GARTNER 2012\)](../../.gitbook/assets/image%20%2865%29.png)
+![Source: STAGES OF DATA ANALYTICS MATURITY \(ADAPTED FROM DAVENPORT &amp; HARRIS 2007 / GARTNER 2012\)](../../.gitbook/assets/image%20%2879%29.png)
 
 Việc trích xuất hiểu biết và thông tin từ Data, là quá trình ngoại suy Quy Nạp. Ta khái quát hoá những gì trực tiếp quan sát được trong một mẫu data thu thập được, thành những thông tin \(phỏng đoán\) về những quan sát nằm bên ngoài mẫu mà ta không quan sát được. Ví dụ: Quan sát quá khứ ⇒ Dự đoán tương lai; Quan sát những ca bệnh trong quá khứ ⇒ Chẩn đoán cho ca mới; Khảo sát mẫu vài chục ngàn người ⇒ Rút ra kết luận về xu hướng của cả thị trường tiêu dùng.
 
@@ -37,7 +37,7 @@ Bài toán quy nạp đặt ra là: Ta phải đi từ nhỏ đến to, từ Dat
 
 ### 04 tầng Ngoại Suy
 
-![](../../.gitbook/assets/image%20%2864%29.png)
+![](../../.gitbook/assets/image%20%2878%29.png)
 
 {% hint style="info" %}
 Như biểu đồ bên trên, ta chia quá trình ngoại suy từ **quan sát trên một mẫu nhỏ** ra **kết luận trên một quần thể lớn,** thành 4 tầng:
