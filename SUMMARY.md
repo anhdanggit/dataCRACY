@@ -19,7 +19,10 @@
   * [Data Thinking: Quy Nạp](big-o/3-data-thinking/data-thinking-quy-nap.md)
   * [Xác suất & Giả-thuyết-không](big-o/3-data-thinking/xac-suat-and-gia-thuyet-khong.md)
   * [Tương quan & Nhân-Quả](big-o/3-data-thinking/tuong-quan-and-nhan-qua.md)
-* [Coming Soon.](big-o/coming-soon./README.md)
-  * [Datatalk\#4 - Data & Careers](big-o/coming-soon./4-data-sceptic.md)
+* [Datatalk\#4 - Data & Careers](big-o/4-data-sceptic.md)
 * [Tham Khảo](big-o/reference.md)
+
+## ATOM
+
+* [Giới thiệu: Lớp-học-mở](atom/gioi-thieu-lop-hoc-mo.md)
 
