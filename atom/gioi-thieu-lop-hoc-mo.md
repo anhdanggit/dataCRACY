@@ -1,4 +1,6 @@
-# Giới thiệu: Lớp-học-mở
+# Nội quy: Lớp-học-mở
+
+## 
 
 ## Tổ chức lớp học
 

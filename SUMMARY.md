@@ -24,5 +24,5 @@
 
 ## ATOM
 
-* [Giới thiệu: Lớp-học-mở](atom/gioi-thieu-lop-hoc-mo.md)
+* [Nội quy: Lớp-học-mở](atom/gioi-thieu-lop-hoc-mo.md)
 
