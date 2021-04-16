@@ -28,6 +28,6 @@
 * [1 - Data Strategy & Metrics](atom/1-data-strategy-and-metrics/README.md)
   * [1.1 - Data Strategy](atom/1-data-strategy-and-metrics/1.1-data-strategy.md)
   * [1.2 - Principles of Metrics](atom/1-data-strategy-and-metrics/1.2-principles-of-metrics.md)
-  * [1.3 - Lab: Analytics on Spreadsheet](atom/1-data-strategy-and-metrics/1.3-lab-analytics-on-spreadsheet.md)
-  * [1.4 - Home Assignment](atom/1-data-strategy-and-metrics/1.4-home-assignment.md)
+  * [1.3 - Lab\#1: Analytics on Spreadsheet](atom/1-data-strategy-and-metrics/1.3-lab-analytics-on-spreadsheet.md)
+  * [1.4 - Home Assignment\#1](atom/1-data-strategy-and-metrics/1.4-home-assignment.md)
 

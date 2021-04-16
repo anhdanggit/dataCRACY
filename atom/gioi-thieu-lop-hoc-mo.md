@@ -1,6 +1,6 @@
 # Nội quy: Lớp-học-mở
 
-![](../.gitbook/assets/image%20%2883%29.png)
+![](../.gitbook/assets/image%20%2885%29.png)
 
 ## Tổ chức lớp học
 
