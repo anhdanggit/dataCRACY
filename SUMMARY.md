@@ -30,4 +30,5 @@
   * [1.2 - Principles of Metrics](atom/1-data-strategy-and-metrics/1.2-principles-of-metrics.md)
   * [1.3 - Lab\#1: Analytics on Spreadsheet](atom/1-data-strategy-and-metrics/1.3-lab-analytics-on-spreadsheet.md)
   * [1.4 - Home Assignment\#1](atom/1-data-strategy-and-metrics/1.4-home-assignment.md)
+* [2 - Data Tools \(1\)](atom/2-data-tools-1.md)
 
