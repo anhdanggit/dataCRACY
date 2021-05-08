@@ -30,5 +30,10 @@
   * [1.2 - Principles of Metrics](atom/1-data-strategy-and-metrics/1.2-principles-of-metrics.md)
   * [1.3 - Lab\#1: Analytics on Spreadsheet](atom/1-data-strategy-and-metrics/1.3-lab-analytics-on-spreadsheet.md)
   * [1.4 - Home Assignment\#1](atom/1-data-strategy-and-metrics/1.4-home-assignment.md)
-* [2 - Data Tools \(1\)](atom/2-data-tools-1.md)
+* [2 - Data Tools \(1\)](atom/2-data-tools-1/README.md)
+  * [2.1 - Git & Jupyter Notebooks](atom/2-data-tools-1/2.1-git-and-jupyter-notebooks.md)
+  * [2.2 - Python Basics](atom/2-data-tools-1/2.2-python-basics.md)
+  * [2.3 - Lab\#1: Github Desktop](atom/2-data-tools-1/2.3-lab-1-github-desktop.md)
+  * [2.4 - Lab\#2: Set-up Working Environment](atom/2-data-tools-1/2.4-lab-2-set-up-working-environment.md)
+  * [Untitled](atom/2-data-tools-1/untitled.md)
 
