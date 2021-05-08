@@ -13,6 +13,10 @@
 
 ## Agenda Week 2
 
+{% hint style="info" %}
+[ATOM Week 2 \| Class Notepad - Google Docs](https://docs.google.com/document/d/1O78O86aIU0-QvCnklgLkpHiPS1tCk_cozgTdvHb_40A/edit)
+{% endhint %}
+
 * **Thông báo về tổ chức lớp \(10’\):**
   * Giới thiệu các mentors và vai trò [Datacracy \| INSTRUCTION FOR MENTORS - Google Docs](https://docs.google.com/document/d/1RqGepHpFmX_4KyCgrhNB8ss_z6G95PA3fdyDX1ld0pE/edit#)
   * Mentors support các câu hỏi theo topics
@@ -21,7 +25,7 @@
   * Chia thành 4 nhóm - [DANH SÁCH LỚP](https://docs.google.com/spreadsheets/d/1cjrbFxIyaeIsHEy2I3P3r-Nqba5do99R/edit#gid=444714042) 
   * Các mentors phụ trách
   * Nhóm trao đổi về các câu hỏi, chia sẻ bài tập, thảo luận những gì đã học được
-  * Tổng hợp các thắc mắc câu hỏi của lớp và gửi vào channel \#atom-week2
+  * Tổng hợp các thắc mắc câu hỏi của lớp và update vào [ATOM Week 2 \| Class Notepad - Google Docs](https://docs.google.com/document/d/1O78O86aIU0-QvCnklgLkpHiPS1tCk_cozgTdvHb_40A/edit)
 * **Class \(90’\):**
   * Python Basics: Giải đáp thắc mắc, demo, bài tập lives
   * Github + Lab\#1
