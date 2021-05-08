@@ -1,2 +1,2 @@
-# 6 - Mathematical Thinking
+# 6 - Mathematical Thinking change
 
