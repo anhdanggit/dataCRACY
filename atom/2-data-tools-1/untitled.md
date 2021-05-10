@@ -1,14 +1,14 @@
 # 2.5 - Home Assignment\#2
 
-### Weekend, 08-09/05/2021
+## Weekend, 08-09/05/2021
 
 * Hoàn thành Week 2 [Lab\#2  Set-up Working Environment](2.4-lab-2-set-up-working-environment.md)
 * Chỉnh sửa [Assignment\#1](../1-data-strategy-and-metrics/1.4-home-assignment.md) sau buổi học Week 2
 * Mỗi learner reviews &gt;= 2 Assigments trên channel `#atom-assignment1`
 
-### Home Assignment\#2 \(Flipped Learning Week 3\)
+## Home Assignment\#2 \(Flipped Learning Week 3\)
 
-## Step 1: Github
+### Step 1: Github
 
 * Fork: [https://github.com/anhdanggit/atom-assignments](https://github.com/anhdanggit/atom-assignments)
 * Dùng Github Desktop, clone repo atom-assignments trên profile của bạn \(sau khi fork\)
@@ -25,9 +25,7 @@
   2. Tạo App Passwords [HERE](https://support.google.com/accounts/answer/185833?p=InvalidSecondFactor&visit_id=637562139468610337-3856071038&rd=1) 
   3. Copy the App Password =&gt; `PWD_EMAIL`
 
-![](../../.gitbook/assets/image%20%28121%29.png)
-
-![](../../.gitbook/assets/image%20%28122%29.png)
+     ![](../../.gitbook/assets/image%20%28123%29.png)
 
 ### Step 3: API\_KEY
 
@@ -50,19 +48,31 @@ API là một nguồn để lấy data \(giải thích cụ thể hơn trong `AT
   * Local: Lưu ý khi push lên github không push file `env_variable.py` =&gt; Nguy hiểm. Để tên file này trong list `.gitignore` để git ignores file
 * Assignment này sẽ hướng dẫn bạn tạo program gửi email theo nội dung, sử dụng các email bạn có để test
 
-![](../../.gitbook/assets/image%20%28124%29.png)
+  ![](../../.gitbook/assets/image%20%28122%29.png)
+
+![](../../.gitbook/assets/image%20%28127%29.png)
 
 * Cũng trong bài này, sẽ học về HTML. Bạn có thể tìm hiểu cấu trúc của HTML của bất kỳ website bằng Developer Tools 
 
+![](../../.gitbook/assets/image%20%28122%29.png)
 
+![](../../.gitbook/assets/image%20%28125%29.png)
 
 * Đọc thêm phần API, JSON, Email trong **Automate the Boring Stuff with Python**. Al Sweigart\)
 
-### Submission
+{% hint style="success" %}
+**Submission**
 
-* Upload Notebook với code cho TODO \#1 - TODO \#5 trên Github Repo của bạn
+* Upload Notebook với code cho **TODO \#1 - TODO \#5** trên Github Repo của bạn
 * Viết thêm các comments, text bất kỳ vào notebooks
 * Copy link vào \#atom-assignment2
+{% endhint %}
+
+{% hint style="warning" %}
+* Học viên hoàn thành assignments nhiều nhất có thể và submit trên channel chung \(Slack\) trước **5h chiều, Thứ 5 hàng tuần.**
+* “Last Chance”: Sau buổi học, học viên có thể hoàn chỉnh thêm assignment theo nội dung review trong lớp học, và submit lại trước **12h trưa Chủ nhật \(sau buổi học\).**
+* Khuyến khích mọi người tích cực trao đổi và hỏi các thắc mắc trong quá trình làm bài.
+{% endhint %}
 
 
 
