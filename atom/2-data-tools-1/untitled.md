@@ -1,10 +1,12 @@
 # 2.5 - Home Assignment\#2
 
+{% hint style="info" %}
 ## Weekend, 08-09/05/2021
 
 * Hoàn thành Week 2 [Lab\#2  Set-up Working Environment](2.4-lab-2-set-up-working-environment.md)
 * Chỉnh sửa [Assignment\#1](../1-data-strategy-and-metrics/1.4-home-assignment.md) sau buổi học Week 2
 * Mỗi learner reviews &gt;= 2 Assigments trên channel `#atom-assignment1`
+{% endhint %}
 
 ## Home Assignment\#2 \(Flipped Learning Week 3\)
 
