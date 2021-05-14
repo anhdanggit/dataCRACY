@@ -36,4 +36,5 @@
   * [2.3 - Lab\#1: Github Desktop](atom/2-data-tools-1/2.3-lab-1-github-desktop.md)
   * [2.4 - Lab\#2: Set-up Working Environment](atom/2-data-tools-1/2.4-lab-2-set-up-working-environment.md)
   * [2.5 - Home Assignment\#2](atom/2-data-tools-1/home-assignment2.md)
+* [3 - Data Tools \(2\)](atom/3-data-tools-2.md)
 
