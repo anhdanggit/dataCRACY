@@ -22,7 +22,10 @@
 ### Step 2: Gmail App Password
 
 * Gmail App Password là dạng password để các application \(bot, python program\) có thể thao tác trên gmail. Nhằm automate một số process, ví dụ như gửi mail.
-* Copy từ `env_variable_test.json` thành `env_variable.py`, update các thông tin
+* Copy từ `env_variable_test.json` thành `env_variable.json`
+
+  , update các thông tin
+
   1. Chọn một địa chỉ email để test cho exercise này =&gt; `SENDER_EMAIL`
   2. Tạo App Passwords [HERE](https://support.google.com/accounts/answer/185833?p=InvalidSecondFactor&visit_id=637562139468610337-3856071038&rd=1) 
   3. Copy the App Password =&gt; `PWD_EMAIL`
