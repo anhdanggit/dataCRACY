@@ -38,5 +38,6 @@
   * [2.5 - Home Assignment\#2](atom/2-data-tools-1/home-assignment2.md)
 * [3 - Data Tools \(2\)](atom/3-data-tools-2/README.md)
   * [3.1 - Task Automation](atom/3-data-tools-2/3.1-task-automation.md)
+  * [3.2 - Spotify API & Postman](atom/3-data-tools-2/3.2-spotify-api-and-postman.md)
   * [3.3 - Home Assignment\#3](atom/3-data-tools-2/3.3-home-assignment-3.md)
 
