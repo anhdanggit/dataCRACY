@@ -71,14 +71,15 @@ _Nếu học viên vắng mặt sẽ không được tính điểm buổi đó, 
 
 * GCP Cloud Functions
 * GCP BigQuery & SQL \(2\)
+* Python Pandas \(1\) 
 * _Materials:_
   * Online Course: [GCP Big Data & ML Fundamentals](https://www.coursera.org/learn/gcp-big-data-ml-fundamentals#syllabus)
 
 ### Week 6: Very Practical Maths & ML \(1\)
 
 * Statistics & Probabilities with minimum pain
-* Modeling Decisions with Multi-Criteria Decision Making
 * Regression Methods
+* Python Pandas \(2\) 
 * _Materials:_
   * Online Course: [Basic Data Descriptors, Statistical Distribution & Applications](https://www.coursera.org/learn/descriptive-statistics-statistical-distributions-business-application?specialization=business-statistics-analysis#syllabus)
 
