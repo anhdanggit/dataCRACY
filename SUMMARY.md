@@ -40,4 +40,8 @@
   * [3.1 - Task Automation](atom/3-data-tools-2/3.1-task-automation.md)
   * [3.2 - Lab\#1: Spotify API & Postman](atom/3-data-tools-2/3.2-spotify-api-and-postman.md)
   * [3.3 - Home Assignment\#3](atom/3-data-tools-2/3.3-home-assignment-3.md)
+* [5 - SQL & Database Design](atom/5-sql-and-database-design/README.md)
+  * [5.1 - Database Design](atom/5-sql-and-database-design/5.1-database-design.md)
+  * [5.2 - Lab: Upload Data từ Google Sheet to BigQuery](atom/5-sql-and-database-design/5.2-lab-upload-data-tu-google-sheet-to-bigquery.md)
+  * [5.3 - Home Assignment \#5](atom/5-sql-and-database-design/5.3-home-assignment-5.md)
 
