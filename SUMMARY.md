@@ -44,4 +44,6 @@
   * [5.1 - Database Design](atom/5-sql-and-database-design/5.1-database-design.md)
   * [5.2 - Lab: Upload Data từ Google Sheet to BigQuery](atom/5-sql-and-database-design/5.2-lab-upload-data-tu-google-sheet-to-bigquery.md)
   * [5.3 - Home Assignment \#5](atom/5-sql-and-database-design/5.3-home-assignment-5.md)
+* [6 - Cloud Function & Streamlit](atom/6-cloud-function-and-streamlit/README.md)
+  * [6.1 - Cloud Function](atom/6-cloud-function-and-streamlit/6.1-cloud-function.md)
 
