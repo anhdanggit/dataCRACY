@@ -47,4 +47,5 @@
 * [6 - Cloud Function & Streamlit](atom/6-cloud-function-and-streamlit/README.md)
   * [6.1 - Cloud Function](atom/6-cloud-function-and-streamlit/6.1-cloud-function.md)
   * [6.2 - Lab: Cloud Function Hands-on](atom/6-cloud-function-and-streamlit/6.2-lab-cloud-function-hands-on.md)
+  * [6.3 - Streamlit](atom/6-cloud-function-and-streamlit/6.3-streamlit.md)
 
