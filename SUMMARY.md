@@ -52,4 +52,5 @@
 * [7 - EDA, Statistics & Regressions](atom/7-eda-statistics-and-regressions/README.md)
   * [7.1 - EDA & Statistics](atom/7-eda-statistics-and-regressions/7.1-eda-and-statistics.md)
   * [7.2 - Modeling](atom/7-eda-statistics-and-regressions/7.2-modeling.md)
+  * [7.3 - Lab: House Price EDA & Linear Regression](atom/7-eda-statistics-and-regressions/7.3-lab-house-price-eda-and-linear-regression.md)
 
