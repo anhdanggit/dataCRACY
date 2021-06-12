@@ -51,4 +51,5 @@
   * [6.4 - Home Assignment \#6](atom/6-cloud-function-and-streamlit/6.4-home-assignment-6.md)
 * [7 - EDA, Statistics & Regressions](atom/7-eda-statistics-and-regressions/README.md)
   * [7.1 - EDA & Statistics](atom/7-eda-statistics-and-regressions/7.1-eda-and-statistics.md)
+  * [7.2 - Modeling](atom/7-eda-statistics-and-regressions/7.2-modeling.md)
 
