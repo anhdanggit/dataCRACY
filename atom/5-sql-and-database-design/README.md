@@ -1,9 +1,13 @@
 # 5 - SQL & Database Design
 
-* Database Design
-* GCP BigQuery & SQL \(1\)
-* Simple Pipeline: From GoogleSheet =&gt; BigQuery
-* _Materials:_
-  * Online Course: [SQL on BigQuery. Google Data Analytics](https://www.coursera.org/learn/analyze-data?specialization=google-data-analytics#syllabus)
-* Nội dung dựa trên: [Atom Home Assignmetn 4 - SQL & Database Design](https://github.com/anhdanggit/atom-assignments/blob/main/assignment_4/home_assignment_4.ipynb)
+{% hint style="info" %}
+**NỘI** 
+
+* [5.1 - Database Design](5.1-database-design.md)
+* [5.2 - Lab: Upload Data từ Google Sheet to BigQuery](5.2-lab-upload-data-tu-google-sheet-to-bigquery.md)
+{% endhint %}
+
+> _Materials:_ [Atom Home Assignmetn 4 - SQL & Database Design](https://github.com/anhdanggit/atom-assignments/blob/main/assignment_4/home_assignment_4.ipynb)
+
+
 
