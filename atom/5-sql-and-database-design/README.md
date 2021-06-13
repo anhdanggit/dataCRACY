@@ -1,7 +1,7 @@
 # 5 - SQL & Database Design
 
 {% hint style="info" %}
-**NỘI** 
+**NỘI DUNG**
 
 * [5.1 - Database Design](5.1-database-design.md)
 * [5.2 - Lab: Upload Data từ Google Sheet to BigQuery](5.2-lab-upload-data-tu-google-sheet-to-bigquery.md)
