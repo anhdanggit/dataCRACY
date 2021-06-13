@@ -13,7 +13,7 @@
 * Bạn có thể vào Slack bằng trình duyệt hoặc cài app Slack trên smartphones
 {% endhint %}
 
-* **Số buổi học:**08 buổi học + 01 buổi ATOM Fair
+* **Số buổi học:** 08 buổi học + 01 buổi ATOM Fair
 * **Thời lượng:** 2.5 tiếng 
 * **Hoạt động:** 
   * 60’: Review lại nội dung self-learning và assignments
