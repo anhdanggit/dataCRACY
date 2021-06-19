@@ -1,4 +1,4 @@
-# 8 - ML in Nutshell & Data Product
+# 8 - ML in Nutshell & Recap
 
 {% hint style="info" %}
 **NỘI DUNG:**
